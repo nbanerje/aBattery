@@ -1,0 +1,219 @@
+TaBattery
+v7
+r1
+
+N/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/BatteryGraphViewController.xib
+c000000004C775BEF00000000000C6828
+t1282890735
+s813096
+
+N/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/Default.png
+c000000004C775BEF00000000000042CF
+t1282890735
+s17103
+
+N/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/Entitlements.plist
+c000000004C775BEF00000000000000E1
+t1282890735
+s225
+
+N/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/Icon.png
+c000000004C775BEF000000000000051B
+t1282890735
+s1307
+
+N/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/MainView.xib
+c000000004C775BEF00000000000066C0
+t1282890735
+s26304
+
+N/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/MainWindow.xib
+c000000004C775BEF00000000000020A8
+t1282890735
+s8360
+
+N/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/battery green fill2.png
+c000000004C775BEF0000000000000FDB
+t1282890735
+s4059
+
+N/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/battery outline2.png
+c000000004C775BEF0000000000001928
+t1282890735
+s6440
+
+N/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/battery red fill.png
+c000000004C775BEF0000000000000F35
+t1282890735
+s3893
+
+N/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/battery red fill2.png
+c000000004C775BEF0000000000000FCF
+t1282890735
+s4047
+
+N/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/battery yellow fill2.png
+c000000004C775BEF0000000000000F72
+t1282890735
+s3954
+
+N/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/batteryTimes.plist
+c000000004C775BEF0000000000000989
+t1282890735
+s2441
+
+N/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/battery_tab3.png
+c000000004C775BEF00000000000002AE
+t1282890735
+s686
+
+N/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/Debug/aBattery.app
+t2
+s0
+
+N/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/Debug/aBattery.app/Contents/Info.plist
+t2
+s0
+
+N/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/Debug/aBattery.app/Contents/PkgInfo
+t2
+s0
+
+N/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/Debug/aBattery.app/Contents/Resources/BatteryGraphViewController.nib
+t2
+s0
+
+N/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/Debug/aBattery.app/Contents/Resources/Default.png
+t2
+s0
+
+N/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/Debug/aBattery.app/Contents/Resources/Entitlements.plist
+t2
+s0
+
+N/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/Debug/aBattery.app/Contents/Resources/Icon.png
+t2
+s0
+
+N/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/Debug/aBattery.app/Contents/Resources/MainView.nib
+t2
+s0
+
+N/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/Debug/aBattery.app/Contents/Resources/MainWindow.nib
+t2
+s0
+
+N/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/Debug/aBattery.app/Contents/Resources/battery green fill2.png
+t2
+s0
+
+N/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/Debug/aBattery.app/Contents/Resources/battery outline2.png
+t2
+s0
+
+N/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/Debug/aBattery.app/Contents/Resources/battery red fill.png
+t2
+s0
+
+N/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/Debug/aBattery.app/Contents/Resources/battery red fill2.png
+t2
+s0
+
+N/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/Debug/aBattery.app/Contents/Resources/battery yellow fill2.png
+t2
+s0
+
+N/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/Debug/aBattery.app/Contents/Resources/batteryTimes.plist
+t2
+s0
+
+N/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/Debug/aBattery.app/Contents/Resources/battery_tab3.png
+t2
+s0
+
+N/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/Debug/aBattery.app/Contents/Resources/graph.png
+t2
+s0
+
+N/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/Debug/aBattery.app/Contents/Resources/iTunesArtWork.jpg
+t2
+s0
+
+N/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/Debug/aBattery.app/Contents/Resources/setting_tab.png
+t2
+s0
+
+N/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/graph.png
+c000000004C775BEF0000000000000EDE
+t1282890735
+s3806
+
+N/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/iTunesArtWork.jpg
+c000000004C775BEF0000000000007A56
+t1282890735
+s31318
+
+N/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/setting_tab.png
+c000000004C775BEF0000000000000D54
+t1282890735
+s3412
+
+NaBattery-Info.plist
+c000000004C775BEF0000000000000374
+t1282890735
+s884
+
+CCompileXIB "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/BatteryGraphViewController.xib"
+r0
+
+CCompileXIB "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/MainView.xib"
+r0
+
+CCompileXIB "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/MainWindow.xib"
+r0
+
+CCopyPlistFile "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/Debug/aBattery.app/Contents/Resources/Entitlements.plist" Entitlements.plist
+r0
+
+CCopyPlistFile "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/Debug/aBattery.app/Contents/Resources/batteryTimes.plist" batteryTimes.plist
+r0
+
+CCpResource "build/Debug/aBattery.app/Contents/Resources/battery green fill2.png" "battery green fill2.png"
+r0
+
+CCpResource "build/Debug/aBattery.app/Contents/Resources/battery outline2.png" "battery outline2.png"
+r0
+
+CCpResource "build/Debug/aBattery.app/Contents/Resources/battery red fill.png" "battery red fill.png"
+r0
+
+CCpResource "build/Debug/aBattery.app/Contents/Resources/battery red fill2.png" "battery red fill2.png"
+r0
+
+CCpResource "build/Debug/aBattery.app/Contents/Resources/battery yellow fill2.png" "battery yellow fill2.png"
+r0
+
+CCpResource build/Debug/aBattery.app/Contents/Resources/Default.png Default.png
+r0
+
+CCpResource build/Debug/aBattery.app/Contents/Resources/Icon.png Icon.png
+r0
+
+CCpResource build/Debug/aBattery.app/Contents/Resources/battery_tab3.png battery_tab3.png
+r0
+
+CCpResource build/Debug/aBattery.app/Contents/Resources/graph.png graph.png
+r0
+
+CCpResource build/Debug/aBattery.app/Contents/Resources/iTunesArtWork.jpg iTunesArtWork.jpg
+r0
+
+CCpResource build/Debug/aBattery.app/Contents/Resources/setting_tab.png setting_tab.png
+r0
+
+CProcessInfoPlistFile "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/Debug/aBattery.app/Contents/Info.plist" aBattery-Info.plist
+r0
+
+CTouch "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/Debug/aBattery.app"
+r0
+

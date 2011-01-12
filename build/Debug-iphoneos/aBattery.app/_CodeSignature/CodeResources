@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>files</key>
+	<dict>
+		<key>BatteryGraphViewController.nib</key>
+		<data>
+		swzQKXK0LJJoV4Bm7OMSMJlZlXI=
+		</data>
+		<key>Default.png</key>
+		<data>
+		qGn5366xAPJEQw5k0YGPdO8gg5M=
+		</data>
+		<key>Icon.png</key>
+		<data>
+		mXsaMWk4z4tcHGFyg91zg/aL+xo=
+		</data>
+		<key>MainView.nib</key>
+		<data>
+		uvqxPcJF2oYMtldbovs9pzM1C5I=
+		</data>
+		<key>MainWindow.nib</key>
+		<data>
+		j04lr9tUcsvqps6oQ20plteamPg=
+		</data>
+		<key>PkgInfo</key>
+		<data>
+		n57qDP4tZfLD1rCS43W0B4LQjzE=
+		</data>
+		<key>battery green fill2.png</key>
+		<data>
+		Rk/Z9nTqr50mtoSORpR9IEfoE1Y=
+		</data>
+		<key>battery outline2.png</key>
+		<data>
+		Tf1gFr8KCmcXKVzJ8zgGOLrdtQo=
+		</data>
+		<key>battery red fill.png</key>
+		<data>
+		LS3V7NSt25Kzm7C7+1Umo47/bbY=
+		</data>
+		<key>battery red fill2.png</key>
+		<data>
+		fN4ct0FsOM/SvPJBeVf+HWw2ziM=
+		</data>
+		<key>battery yellow fill2.png</key>
+		<data>
+		m/n+tPcgkP3PFmzbapFiOwzKwkc=
+		</data>
+		<key>batteryTimes.plist</key>
+		<data>
+		ZfVuHS7XmJ8bG09Qce68HPbJDic=
+		</data>
+		<key>battery_tab3.png</key>
+		<data>
+		DCo8/LQ2ZSpxmlNE4A8C+Uixyic=
+		</data>
+		<key>embedded.mobileprovision</key>
+		<data>
+		iO+jsxnt78SFIH5YUn+b8+jIYVc=
+		</data>
+		<key>graph.png</key>
+		<data>
+		gx3BZW3KhYn9Cv9vjNPo1fmRdgY=
+		</data>
+		<key>iTunesArtWork.jpg</key>
+		<data>
+		jYYAbaLJaKQf9J9fS9hbtxgsAiA=
+		</data>
+		<key>setting_tab.png</key>
+		<data>
+		fD9BT9T+6S4Aw1LGrTDtbhHrWHQ=
+		</data>
+	</dict>
+	<key>rules</key>
+	<dict>
+		<key>.*</key>
+		<true/>
+		<key>Info.plist</key>
+		<dict>
+			<key>omit</key>
+			<true/>
+			<key>weight</key>
+			<real>10</real>
+		</dict>
+		<key>ResourceRules.plist</key>
+		<dict>
+			<key>omit</key>
+			<true/>
+			<key>weight</key>
+			<real>100</real>
+		</dict>
+	</dict>
+</dict>
+</plist>
