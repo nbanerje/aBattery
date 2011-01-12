@@ -1,0 +1,333 @@
+TCorePlot-CocoaTouch
+v7
+r1
+
+N/Volumes/Mac OS Extended/core-plot/framework/CorePlot-CocoaTouch.h
+c000000004D2D818D0000000000000502
+t1294827917
+s1282
+
+N/Volumes/Mac OS Extended/core-plot/framework/Source/CPAnimation.h
+c000000004D2D818D000000000000054C
+t1294827917
+s1356
+
+N/Volumes/Mac OS Extended/core-plot/framework/Source/CPAnimationKeyFrame.h
+c000000004D2D818D0000000000000198
+t1294827917
+s408
+
+N/Volumes/Mac OS Extended/core-plot/framework/Source/CPAnimationTransition.h
+c000000004D2D818D00000000000003B5
+t1294827917
+s949
+
+N/Volumes/Mac OS Extended/core-plot/framework/Source/CPAxis.h
+c000000004D2D818D0000000000001064
+t1294827917
+s4196
+
+N/Volumes/Mac OS Extended/core-plot/framework/Source/CPAxisLabel.h
+c000000004D2D818D00000000000003FF
+t1294827917
+s1023
+
+N/Volumes/Mac OS Extended/core-plot/framework/Source/CPAxisSet.h
+c000000004D2D818D0000000000000226
+t1294827917
+s550
+
+N/Volumes/Mac OS Extended/core-plot/framework/Source/CPBorderedLayer.h
+c000000004D2D818D00000000000001AF
+t1294827917
+s431
+
+N/Volumes/Mac OS Extended/core-plot/framework/Source/CPColor.h
+c000000004D2D818D0000000000000387
+t1294827917
+s903
+
+N/Volumes/Mac OS Extended/core-plot/framework/Source/CPColorSpace.h
+c000000004D2D818D0000000000000137
+t1294827917
+s311
+
+N/Volumes/Mac OS Extended/core-plot/framework/Source/CPDarkGradientTheme.h
+c000000004D2D818D00000000000000A8
+t1294827917
+s168
+
+N/Volumes/Mac OS Extended/core-plot/framework/Source/CPPathExtensions.h
+c000000004D2D818D00000000000000E6
+t1294827917
+s230
+
+N/Volumes/Mac OS Extended/core-plot/framework/Source/CPPlainBlackTheme.h
+c000000004D2D818D000000000000006E
+t1294827917
+s110
+
+N/Volumes/Mac OS Extended/core-plot/framework/Source/CPPlainWhiteTheme.h
+c000000004D2D818D000000000000006E
+t1294827917
+s110
+
+N/Volumes/Mac OS Extended/core-plot/framework/Source/CPStocksTheme.h
+c000000004D2D818D000000000000006A
+t1294827917
+s106
+
+N/Volumes/Mac OS Extended/core-plot/framework/Source/CPTextStyle.h
+c000000004D2D818D00000000000002CF
+t1294827917
+s719
+
+N/Volumes/Mac OS Extended/core-plot/framework/Source/CPTheme.h
+c000000004D2D818D000000000000034E
+t1294827917
+s846
+
+N/Volumes/Mac OS Extended/core-plot/framework/Source/CPTimeFormatter.h
+c000000004D2D818D000000000000016B
+t1294827917
+s363
+
+N/Volumes/Mac OS Extended/core-plot/framework/Source/CPXYAxis.h
+c000000004D2D818D00000000000000E6
+t1294827917
+s230
+
+N/Volumes/Mac OS Extended/core-plot/framework/Source/CPXYAxisSet.h
+c000000004D2D818D00000000000000EC
+t1294827917
+s236
+
+N/Volumes/Mac OS Extended/core-plot/framework/Source/CPXYPlotSpace.h
+c000000004D2D818E000000000000021A
+t1294827918
+s538
+
+N/Volumes/Mac OS Extended/core-plot/framework/Source/NSDecimalNumberExtensions.h
+c000000004D2D818E000000000000008B
+t1294827918
+s139
+
+N/Volumes/Mac OS Extended/core-plot/framework/build/Debug/libCorePlot-CocoaTouch.a
+c00000000000000000000000000000000
+t2
+s0
+
+N/Volumes/Mac OS Extended/core-plot/framework/build/Debug/usr/local/include/CPAnimation.h
+t2
+s0
+
+N/Volumes/Mac OS Extended/core-plot/framework/build/Debug/usr/local/include/CPAnimationKeyFrame.h
+t2
+s0
+
+N/Volumes/Mac OS Extended/core-plot/framework/build/Debug/usr/local/include/CPAnimationTransition.h
+t2
+s0
+
+N/Volumes/Mac OS Extended/core-plot/framework/build/Debug/usr/local/include/CPAxis.h
+t2
+s0
+
+N/Volumes/Mac OS Extended/core-plot/framework/build/Debug/usr/local/include/CPAxisLabel.h
+t2
+s0
+
+N/Volumes/Mac OS Extended/core-plot/framework/build/Debug/usr/local/include/CPAxisSet.h
+t2
+s0
+
+N/Volumes/Mac OS Extended/core-plot/framework/build/Debug/usr/local/include/CPBorderedLayer.h
+t2
+s0
+
+N/Volumes/Mac OS Extended/core-plot/framework/build/Debug/usr/local/include/CPColor.h
+t2
+s0
+
+N/Volumes/Mac OS Extended/core-plot/framework/build/Debug/usr/local/include/CPColorSpace.h
+t2
+s0
+
+N/Volumes/Mac OS Extended/core-plot/framework/build/Debug/usr/local/include/CPDarkGradientTheme.h
+t2
+s0
+
+N/Volumes/Mac OS Extended/core-plot/framework/build/Debug/usr/local/include/CPLayerHostingView.h
+t2
+s0
+
+N/Volumes/Mac OS Extended/core-plot/framework/build/Debug/usr/local/include/CPPathExtensions.h
+t2
+s0
+
+N/Volumes/Mac OS Extended/core-plot/framework/build/Debug/usr/local/include/CPPlainBlackTheme.h
+t2
+s0
+
+N/Volumes/Mac OS Extended/core-plot/framework/build/Debug/usr/local/include/CPPlainWhiteTheme.h
+t2
+s0
+
+N/Volumes/Mac OS Extended/core-plot/framework/build/Debug/usr/local/include/CPPlatformSpecificCategories.h
+t2
+s0
+
+N/Volumes/Mac OS Extended/core-plot/framework/build/Debug/usr/local/include/CPPlatformSpecificDefines.h
+t2
+s0
+
+N/Volumes/Mac OS Extended/core-plot/framework/build/Debug/usr/local/include/CPPlatformSpecificFunctions.h
+t2
+s0
+
+N/Volumes/Mac OS Extended/core-plot/framework/build/Debug/usr/local/include/CPStocksTheme.h
+t2
+s0
+
+N/Volumes/Mac OS Extended/core-plot/framework/build/Debug/usr/local/include/CPTextStyle.h
+t2
+s0
+
+N/Volumes/Mac OS Extended/core-plot/framework/build/Debug/usr/local/include/CPTextStylePlatformSpecific.h
+t2
+s0
+
+N/Volumes/Mac OS Extended/core-plot/framework/build/Debug/usr/local/include/CPTheme.h
+t2
+s0
+
+N/Volumes/Mac OS Extended/core-plot/framework/build/Debug/usr/local/include/CPTimeFormatter.h
+t2
+s0
+
+N/Volumes/Mac OS Extended/core-plot/framework/build/Debug/usr/local/include/CPXYAxis.h
+t2
+s0
+
+N/Volumes/Mac OS Extended/core-plot/framework/build/Debug/usr/local/include/CPXYAxisSet.h
+t2
+s0
+
+N/Volumes/Mac OS Extended/core-plot/framework/build/Debug/usr/local/include/CPXYPlotSpace.h
+t2
+s0
+
+N/Volumes/Mac OS Extended/core-plot/framework/build/Debug/usr/local/include/CorePlot-CocoaTouch.h
+t2
+s0
+
+N/Volumes/Mac OS Extended/core-plot/framework/build/Debug/usr/local/include/NSDecimalNumberExtensions.h
+t2
+s0
+
+N/Volumes/Mac OS Extended/core-plot/framework/iPhoneOnly/CPLayerHostingView.h
+c000000004D2D818E00000000000000D2
+t1294827918
+s210
+
+N/Volumes/Mac OS Extended/core-plot/framework/iPhoneOnly/CPPlatformSpecificCategories.h
+c000000004D2D818E0000000000000199
+t1294827918
+s409
+
+N/Volumes/Mac OS Extended/core-plot/framework/iPhoneOnly/CPPlatformSpecificDefines.h
+c000000004D2D818E000000000000005B
+t1294827918
+s91
+
+N/Volumes/Mac OS Extended/core-plot/framework/iPhoneOnly/CPPlatformSpecificFunctions.h
+c000000004D2D818E000000000000008C
+t1294827918
+s140
+
+N/Volumes/Mac OS Extended/core-plot/framework/iPhoneOnly/CPTextStylePlatformSpecific.h
+c000000004D2D818E0000000000000023
+t1294827918
+s35
+
+CCpHeader build/Debug/usr/local/include/CPAnimation.h Source/CPAnimation.h
+r0
+
+CCpHeader build/Debug/usr/local/include/CPAnimationKeyFrame.h Source/CPAnimationKeyFrame.h
+r0
+
+CCpHeader build/Debug/usr/local/include/CPAnimationTransition.h Source/CPAnimationTransition.h
+r0
+
+CCpHeader build/Debug/usr/local/include/CPAxis.h Source/CPAxis.h
+r0
+
+CCpHeader build/Debug/usr/local/include/CPAxisLabel.h Source/CPAxisLabel.h
+r0
+
+CCpHeader build/Debug/usr/local/include/CPAxisSet.h Source/CPAxisSet.h
+r0
+
+CCpHeader build/Debug/usr/local/include/CPBorderedLayer.h Source/CPBorderedLayer.h
+r0
+
+CCpHeader build/Debug/usr/local/include/CPColor.h Source/CPColor.h
+r0
+
+CCpHeader build/Debug/usr/local/include/CPColorSpace.h Source/CPColorSpace.h
+r0
+
+CCpHeader build/Debug/usr/local/include/CPDarkGradientTheme.h Source/CPDarkGradientTheme.h
+r0
+
+CCpHeader build/Debug/usr/local/include/CPLayerHostingView.h iPhoneOnly/CPLayerHostingView.h
+r0
+
+CCpHeader build/Debug/usr/local/include/CPPathExtensions.h Source/CPPathExtensions.h
+r0
+
+CCpHeader build/Debug/usr/local/include/CPPlainBlackTheme.h Source/CPPlainBlackTheme.h
+r0
+
+CCpHeader build/Debug/usr/local/include/CPPlainWhiteTheme.h Source/CPPlainWhiteTheme.h
+r0
+
+CCpHeader build/Debug/usr/local/include/CPPlatformSpecificCategories.h iPhoneOnly/CPPlatformSpecificCategories.h
+r0
+
+CCpHeader build/Debug/usr/local/include/CPPlatformSpecificDefines.h iPhoneOnly/CPPlatformSpecificDefines.h
+r0
+
+CCpHeader build/Debug/usr/local/include/CPPlatformSpecificFunctions.h iPhoneOnly/CPPlatformSpecificFunctions.h
+r0
+
+CCpHeader build/Debug/usr/local/include/CPStocksTheme.h Source/CPStocksTheme.h
+r0
+
+CCpHeader build/Debug/usr/local/include/CPTextStyle.h Source/CPTextStyle.h
+r0
+
+CCpHeader build/Debug/usr/local/include/CPTextStylePlatformSpecific.h iPhoneOnly/CPTextStylePlatformSpecific.h
+r0
+
+CCpHeader build/Debug/usr/local/include/CPTheme.h Source/CPTheme.h
+r0
+
+CCpHeader build/Debug/usr/local/include/CPTimeFormatter.h Source/CPTimeFormatter.h
+r0
+
+CCpHeader build/Debug/usr/local/include/CPXYAxis.h Source/CPXYAxis.h
+r0
+
+CCpHeader build/Debug/usr/local/include/CPXYAxisSet.h Source/CPXYAxisSet.h
+r0
+
+CCpHeader build/Debug/usr/local/include/CPXYPlotSpace.h Source/CPXYPlotSpace.h
+r0
+
+CCpHeader build/Debug/usr/local/include/CorePlot-CocoaTouch.h CorePlot-CocoaTouch.h
+r0
+
+CCpHeader build/Debug/usr/local/include/NSDecimalNumberExtensions.h Source/NSDecimalNumberExtensions.h
+r0
+

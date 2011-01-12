@@ -1,0 +1,378 @@
+// !$*UTF8*$!
+{
+	181D9D4E12DDC4C6009D8043 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 18FD204512DDC478000DE9CC /* aBattery.xcent */;
+		name = "aBattery.xcent: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 423;
+		vrLoc = 0;
+	};
+	181D9DDB12DDC520009D8043 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 18FD204512DDC478000DE9CC /* aBattery.xcent */;
+		name = "aBattery.xcent: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 423;
+		vrLoc = 0;
+	};
+	181D9DE612DDC555009D8043 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 18FD204512DDC478000DE9CC /* aBattery.xcent */;
+		name = "aBattery.xcent: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 423;
+		vrLoc = 0;
+	};
+	1883775F12DAE16700F18AF2 /* aBattery */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = aBattery;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	1883777012DAE18400F18AF2 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	1883777112DAE18400F18AF2 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	18DD6C6812DD9F85003335F5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = ABA297FD10537FC00071E951 /* BatteryGraphViewController.h */;
+		name = "BatteryGraphViewController.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1122;
+		vrLoc = 0;
+	};
+	18DD6CA812DDA3B1003335F5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = ABAA57411054472B003145AC /* BatteryGraphViewController.m */;
+		name = "BatteryGraphViewController.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 778;
+		vrLoc = 0;
+	};
+	18F125DB12DD7AA80043A1E1 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* aBatteryAppDelegate.m */;
+		name = "aBatteryAppDelegate.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 716;
+		vrLoc = 0;
+	};
+	18F1260312DD7E350043A1E1 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = AB4425291054CC8A00E2D7B1 /* batteryTimes.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/batteryTimes.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	18F1261712DD80A90043A1E1 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = AB9BB2EB0FA81277004AD35F /* Battery.m */;
+		name = "Battery.m: 20";
+		rLen = 16;
+		rLoc = 494;
+		rType = 0;
+		vrLen = 773;
+		vrLoc = 0;
+	};
+	18F1266512DD88210043A1E1 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = AB4424EB1054C75D00E2D7B1 /* UIDeviceHardware.m */;
+		name = "UIDeviceHardware.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 921;
+		vrLoc = 0;
+	};
+	18FD201312DDC104000DE9CC /* CPLayer.m */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.objc;
+		name = CPLayer.m;
+		path = "/Volumes/Mac OS Extended/core-plot/framework/Source/CPLayer.m";
+		sourceTree = "<absolute>";
+	};
+	18FD201E12DDC265000DE9CC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 18FD201312DDC104000DE9CC /* CPLayer.m */;
+		name = "CPLayer.m: 207";
+		rLen = 0;
+		rLoc = 6033;
+		rType = 0;
+		vrLen = 690;
+		vrLoc = 0;
+	};
+	18FD204112DDC478000DE9CC /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* aBattery-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/aBattery-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	18FD204212DDC478000DE9CC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "ProcessProductPackaging \"/Volumes/Mac OS Extended/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist\" build/aBattery.build/Distribution-iphoneos/aBattery.build/aBattery.xcent";
+		fRef = 18FD204312DDC478000DE9CC /* aBattery.xcent */;
+		rLen = 0;
+		rLoc = 0;
+		rType = 1;
+	};
+	18FD204312DDC478000DE9CC /* aBattery.xcent */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = text.xml;
+		name = aBattery.xcent;
+		path = "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/aBattery.xcent";
+		sourceTree = "<absolute>";
+	};
+	18FD204412DDC478000DE9CC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 18FD204512DDC478000DE9CC /* aBattery.xcent */;
+		name = "aBattery.xcent: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 423;
+		vrLoc = 0;
+	};
+	18FD204512DDC478000DE9CC /* aBattery.xcent */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = text.xml;
+		name = aBattery.xcent;
+		path = "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/aBattery.xcent";
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {726, 338}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 423}";
+		};
+	};
+	1D3623250D0F684500981E51 /* aBatteryAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1191, 1105}}";
+			sepNavSelRange = "{528, 18}";
+			sepNavVisRange = "{316, 1722}";
+			sepNavWindowFrame = "{{118, -54}, {1250, 677}}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* aBattery */ = {
+		activeExec = 0;
+		executables = (
+			1883775F12DAE16700F18AF2 /* aBattery */,
+		);
+	};
+	289233A90DB2D0DB0083E9F9 /* MainViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1191, 15210}}";
+			sepNavSelRange = "{33059, 0}";
+			sepNavVisRange = "{31019, 1162}";
+			sepNavWindowFrame = "{{15, 96}, {1250, 677}}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeArchitecturePreference = armv6;
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 1883775F12DAE16700F18AF2 /* aBattery */;
+		activeSDKPreference = iphoneos4.2;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* aBattery */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* aBattery */,
+		);
+		codeSenseManager = 1883777112DAE18400F18AF2 /* Code sense */;
+		executables = (
+			1883775F12DAE16700F18AF2 /* aBattery */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					542,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.XCSCMDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					20,
+					354,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_SCM_ColumnID,
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					502,
+					60,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 316523715;
+			PBXWorkspaceStateSaveDate = 316523715;
+		};
+		perUserProjectItems = {
+			181D9D4E12DDC4C6009D8043 /* PBXTextBookmark */ = 181D9D4E12DDC4C6009D8043 /* PBXTextBookmark */;
+			181D9DDB12DDC520009D8043 /* PBXTextBookmark */ = 181D9DDB12DDC520009D8043 /* PBXTextBookmark */;
+			181D9DE612DDC555009D8043 /* PBXTextBookmark */ = 181D9DE612DDC555009D8043 /* PBXTextBookmark */;
+			18DD6C6812DD9F85003335F5 = 18DD6C6812DD9F85003335F5 /* PBXTextBookmark */;
+			18DD6CA812DDA3B1003335F5 = 18DD6CA812DDA3B1003335F5 /* PBXTextBookmark */;
+			18F125DB12DD7AA80043A1E1 = 18F125DB12DD7AA80043A1E1 /* PBXTextBookmark */;
+			18F1260312DD7E350043A1E1 = 18F1260312DD7E350043A1E1 /* PlistBookmark */;
+			18F1261712DD80A90043A1E1 = 18F1261712DD80A90043A1E1 /* PBXTextBookmark */;
+			18F1266512DD88210043A1E1 = 18F1266512DD88210043A1E1 /* PBXTextBookmark */;
+			18FD201E12DDC265000DE9CC = 18FD201E12DDC265000DE9CC /* PBXTextBookmark */;
+			18FD204112DDC478000DE9CC = 18FD204112DDC478000DE9CC /* PlistBookmark */;
+			18FD204212DDC478000DE9CC = 18FD204212DDC478000DE9CC /* PBXTextBookmark */;
+			18FD204412DDC478000DE9CC = 18FD204412DDC478000DE9CC /* PBXTextBookmark */;
+		};
+		sourceControlManager = 1883777012DAE18400F18AF2 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	8D1107310486CEB800E47090 /* aBattery-Info.plist */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{726, 42}, {1250, 677}}";
+		};
+	};
+	AB4424EB1054C75D00E2D7B1 /* UIDeviceHardware.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {720, 546}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 921}";
+			sepNavWindowFrame = "{{0, -1}, {1250, 677}}";
+		};
+	};
+	AB4425291054CC8A00E2D7B1 /* batteryTimes.plist */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{278, -30}, {1250, 677}}";
+		};
+	};
+	AB9BB2EA0FA81277004AD35F /* Battery.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1191, 663}}";
+			sepNavSelRange = "{1263, 0}";
+			sepNavVisRange = "{132, 1189}";
+			sepNavWindowFrame = "{{100, 32}, {1250, 677}}";
+		};
+	};
+	AB9BB2EB0FA81277004AD35F /* Battery.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {992, 1716}}";
+			sepNavSelRange = "{1007, 0}";
+			sepNavVisRange = "{712, 548}";
+			sepNavWindowFrame = "{{65, 81}, {1250, 677}}";
+		};
+	};
+	ABA297FD10537FC00071E951 /* BatteryGraphViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {957, 507}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1122}";
+		};
+	};
+	ABAA57411054472B003145AC /* BatteryGraphViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1048, 8242}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 778}";
+			sepNavWindowFrame = "{{15, 96}, {1250, 677}}";
+		};
+	};
+}
