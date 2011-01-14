@@ -1,7 +1,11 @@
 TCorePlot-CocoaTouch
 v7
 r0
+<<<<<<< HEAD
 t316691903.659562
+=======
+t316523847.926385
+>>>>>>> f235fa75b139b611a1541b68dd888d68ec0b3616
 cCheck dependencies
 cCpHeader build/Release-iphoneos/usr/local/include/CorePlot-CocoaTouch.h CorePlot-CocoaTouch.h
 cCpHeader build/Release-iphoneos/usr/local/include/NSDecimalNumberExtensions.h Source/NSDecimalNumberExtensions.h
@@ -647,6 +651,7 @@ N/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/core-plot/framework/bui
 t1294830630
 s15048
 
+<<<<<<< HEAD
 N/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/core-plot/framework/build/CorePlot-CocoaTouch.build/Release-iphoneos/CorePlot-CocoaTouch.build/StaticAnalyzer/normal/armv6/CPAnimation.plist
 t2
 s0
@@ -847,6 +852,8 @@ N/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/core-plot/framework/bui
 t2
 s0
 
+=======
+>>>>>>> f235fa75b139b611a1541b68dd888d68ec0b3616
 N/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/core-plot/framework/build/Release-iphoneos/libCorePlot-CocoaTouch.a
 t1294830999
 s992176
@@ -1911,6 +1918,7 @@ c000000004D2D818E0000000000000413
 t1294827918
 s1043
 
+<<<<<<< HEAD
 CAnalyze "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/core-plot/framework/Source/CPAnimation.m"
 r0
 
@@ -2061,6 +2069,8 @@ r0
 CAnalyze "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/core-plot/framework/iPhoneOnly/CPTextStylePlatformSpecific.m"
 r0
 
+=======
+>>>>>>> f235fa75b139b611a1541b68dd888d68ec0b3616
 CAnalyze "/Volumes/Mac OS Extended/core-plot/framework/Source/CPAnimation.m"
 s316521555.511538
 e316521555.763495
@@ -2558,7 +2568,11 @@ lSLF07#2@93"Analyze /Volumes/Mac OS Extended/core-plot/framework/iPhoneOnly/CPTe
 
 CCheck dependencies
 r0
+<<<<<<< HEAD
 lSLF07#2@18"Check dependencies316691902#316691903#0(0"0(0#1#0"8626832928#0"0#
+=======
+lSLF07#2@18"Check dependencies316523847#316523847#0(0"0(0#1#0"8605241632#0"0#
+>>>>>>> f235fa75b139b611a1541b68dd888d68ec0b3616
 
 CCompileC build/CorePlot-CocoaTouch.build/Release-iphoneos/CorePlot-CocoaTouch.build/Objects-normal/armv6/CPAnimation.o "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/core-plot/framework/Source/CPAnimation.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
 r0

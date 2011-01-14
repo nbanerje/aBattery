@@ -1,7 +1,11 @@
 TCorePlot-CocoaTouch
 v7
 r0
+<<<<<<< HEAD
 t316691579.608049
+=======
+t316523857.849072
+>>>>>>> f235fa75b139b611a1541b68dd888d68ec0b3616
 cCheck dependencies
 cCpHeader build/Debug-iphoneos/usr/local/include/CorePlot-CocoaTouch.h CorePlot-CocoaTouch.h
 cCpHeader build/Debug-iphoneos/usr/local/include/NSDecimalNumberExtensions.h Source/NSDecimalNumberExtensions.h
@@ -81,6 +85,7 @@ cCompileC build/CorePlot-CocoaTouch.build/Debug-iphoneos/CorePlot-CocoaTouch.bui
 cCompileC build/CorePlot-CocoaTouch.build/Debug-iphoneos/CorePlot-CocoaTouch.build/Objects-normal/armv6/CPTimeFormatter.o "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/core-plot/framework/Source/CPTimeFormatter.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
 cCompileC build/CorePlot-CocoaTouch.build/Debug-iphoneos/CorePlot-CocoaTouch.build/Objects-normal/armv6/CPXYTheme.o "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/core-plot/framework/Source/CPXYTheme.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
 cLibtool "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/core-plot/framework/build/Debug-iphoneos/libCorePlot-CocoaTouch.a" normal armv6
+<<<<<<< HEAD
 cAnalyze "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/core-plot/framework/Source/CPPlot.m"
 cAnalyze "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/core-plot/framework/Source/CPScatterPlot.m"
 cAnalyze "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/core-plot/framework/Source/CPBarPlot.m"
@@ -131,6 +136,8 @@ cAnalyze "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/core-plot/fram
 cAnalyze "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/core-plot/framework/Source/CPStocksTheme.m"
 cAnalyze "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/core-plot/framework/Source/CPTimeFormatter.m"
 cAnalyze "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/core-plot/framework/Source/CPXYTheme.m"
+=======
+>>>>>>> f235fa75b139b611a1541b68dd888d68ec0b3616
 
 N/Volumes/Mac OS Extended/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk
 c000000004CC7DC9E0000000000000110
@@ -697,6 +704,7 @@ N/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/core-plot/framework/bui
 t1294830513
 s14860
 
+<<<<<<< HEAD
 N/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/core-plot/framework/build/CorePlot-CocoaTouch.build/Debug-iphoneos/CorePlot-CocoaTouch.build/StaticAnalyzer/normal/armv6/CPAnimation.plist
 t1294998777
 s276
@@ -897,6 +905,8 @@ N/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/core-plot/framework/bui
 t1294998775
 s4676
 
+=======
+>>>>>>> f235fa75b139b611a1541b68dd888d68ec0b3616
 N/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/core-plot/framework/build/Debug-iphoneos/libCorePlot-CocoaTouch.a
 t1294831057
 s1028704
@@ -1761,6 +1771,7 @@ c000000004D2D818E0000000000000413
 t1294827918
 s1043
 
+<<<<<<< HEAD
 CAnalyze "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/core-plot/framework/Source/CPAnimation.m"
 s316691577.066293
 e316691577.270986
@@ -2259,6 +2270,11 @@ lSLF07#2@124"Analyze /Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/cor
 CCheck dependencies
 r0
 lSLF07#2@18"Check dependencies316691570#316691571#0(0"0(0#1#0"8624859584#0"0#
+=======
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies316523857#316523857#0(0"0(0#1#0"8605052704#0"0#
+>>>>>>> f235fa75b139b611a1541b68dd888d68ec0b3616
 
 CCompileC build/CorePlot-CocoaTouch.build/Debug-iphoneos/CorePlot-CocoaTouch.build/Objects-normal/armv6/CPAnimation.o "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/core-plot/framework/Source/CPAnimation.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
 r0

@@ -47,14 +47,22 @@
 			isa = PBXContainerItemProxy;
 			containerPortal = 181D9DC912DDC4E0009D8043 /* CorePlot-CocoaTouch.xcodeproj */;
 			proxyType = 2;
+<<<<<<< HEAD
 			remoteGlobalIDString = BC9B83470FB8A0A40035D8DA;
+=======
+			remoteGlobalIDString = BC9B83470FB8A0A40035D8DA /* libCorePlot-CocoaTouch.a */;
+>>>>>>> f235fa75b139b611a1541b68dd888d68ec0b3616
 			remoteInfo = "CorePlot-CocoaTouch";
 		};
 		181D9DD312DDC4F4009D8043 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = 181D9DC912DDC4E0009D8043 /* CorePlot-CocoaTouch.xcodeproj */;
 			proxyType = 1;
+<<<<<<< HEAD
 			remoteGlobalIDString = BC9B83460FB8A0A40035D8DA;
+=======
+			remoteGlobalIDString = BC9B83460FB8A0A40035D8DA /* CorePlot-CocoaTouch */;
+>>>>>>> f235fa75b139b611a1541b68dd888d68ec0b3616
 			remoteInfo = "CorePlot-CocoaTouch";
 		};
 /* End PBXContainerItemProxy section */

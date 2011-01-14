@@ -138,6 +138,7 @@ NSString *fooPath =
 
 //Returns the percentage (range: 0-1)
 -(NSNumber*)getPercentFromIndex:(int)index {
+<<<<<<< HEAD
 	if(index < [sortedKeyArray count]) {
 		NSDictionary *entry = [history objectForKey:[sortedKeyArray objectAtIndex:index]];
 		return (NSNumber*)[entry objectForKey:[dictKeys objectAtIndex:0]];
@@ -148,10 +149,15 @@ NSString *fooPath =
 		return nil;
 	}   
 	
+=======
+	NSDictionary *entry = [history objectForKey:[sortedKeyArray objectAtIndex:index]];
+	return (NSNumber*)[entry objectForKey:[dictKeys objectAtIndex:0]];
+>>>>>>> f235fa75b139b611a1541b68dd888d68ec0b3616
 		
 }
 //Date is formatted in short form
 -(NSString*)getDateFromIndex:(int)index {
+<<<<<<< HEAD
 	if(index < [sortedKeyArray count]) {
 		return [formatter2 stringFromDate:[formatter dateFromString:[sortedKeyArray objectAtIndex:index]]];
 	}
@@ -170,6 +176,13 @@ NSString *fooPath =
 	    NSLog(@"HistoryData::getNSNumberDateFromIndex index greater than count -1");	
 		return nil;
 	}
+=======
+	return [formatter2 stringFromDate:[formatter dateFromString:[sortedKeyArray objectAtIndex:index]]];
+}
+//NSNumber Date
+-(NSNumber*)getNSNumberDateFromIndex:(int)index {
+	return [NSNumber numberWithDouble:[[formatter dateFromString:[sortedKeyArray objectAtIndex:index]] timeIntervalSinceReferenceDate]];
+>>>>>>> f235fa75b139b611a1541b68dd888d68ec0b3616
 }
 
 //First save data then return the data

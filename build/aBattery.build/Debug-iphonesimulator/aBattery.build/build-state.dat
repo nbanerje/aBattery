@@ -1,5 +1,6 @@
 TaBattery
 v7
+<<<<<<< HEAD
 r0
 t316687925.218732
 cCheck dependencies
@@ -35,6 +36,9 @@ cCompileC build/aBattery.build/Debug-iphonesimulator/aBattery.build/Objects-norm
 cLd "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/Debug-iphonesimulator/aBattery.app/aBattery" normal i386
 cGenerateDSYMFile "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/Debug-iphonesimulator/aBattery.app.dSYM" "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/Debug-iphonesimulator/aBattery.app/aBattery"
 cTouch "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/Debug-iphonesimulator/aBattery.app"
+=======
+r1
+>>>>>>> f235fa75b139b611a1541b68dd888d68ec0b3616
 
 N/System/Library/Frameworks/QuartzCore.framework/QuartzCore
 c000000004CBF770C0000000000D00CA0
@@ -87,9 +91,15 @@ t1282890734
 s3767
 
 N/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/Classes/HistoryData.m
+<<<<<<< HEAD
 c000000004D30069B0000000000001D72
 t1294993051
 s7538
+=======
+c000000004D1EF0E80000000000001BAF
+t1293873384
+s7087
+>>>>>>> f235fa75b139b611a1541b68dd888d68ec0b3616
 
 N/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/Classes/HistoryViewController.m
 c000000004C775BEE0000000000002283
@@ -102,9 +112,15 @@ t1282890734
 s427
 
 N/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/Classes/MainViewController.m
+<<<<<<< HEAD
 c000000004D300D0A0000000000007FBA
 t1294994698
 s32698
+=======
+c000000004D2D45AC00000000000095F3
+t1294812588
+s38387
+>>>>>>> f235fa75b139b611a1541b68dd888d68ec0b3616
 
 N/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/Classes/SaveData.m
 c000000004C775BEE0000000000000B80
@@ -112,9 +128,15 @@ t1282890734
 s2944
 
 N/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/Classes/aBatteryAppDelegate.m
+<<<<<<< HEAD
 c000000004D300E9D0000000000000C0F
 t1294995101
 s3087
+=======
+c000000004C775BEE0000000000000AD1
+t1282890734
+s2769
+>>>>>>> f235fa75b139b611a1541b68dd888d68ec0b3616
 
 N/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/Default.png
 c000000004C775BEE00000000000042CF
@@ -132,9 +154,15 @@ t1282890734
 s1307
 
 N/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/MainView.xib
+<<<<<<< HEAD
 c000000004D2D833D0000000000009DF6
 t1294828349
 s40438
+=======
+c000000004C775BEE00000000000066C0
+t1282890734
+s26304
+>>>>>>> f235fa75b139b611a1541b68dd888d68ec0b3616
 
 N/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/MainWindow.xib
 c000000004C775BEE00000000000020A8
@@ -142,9 +170,15 @@ t1282890734
 s8360
 
 N/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/SettingsViewController.m
+<<<<<<< HEAD
 c000000004D3005520000000000001C3C
 t1294992722
 s7228
+=======
+c000000004C775BEE00000000000021EB
+t1282890734
+s8683
+>>>>>>> f235fa75b139b611a1541b68dd888d68ec0b3616
 
 N/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/UIDeviceHardware.m
 c000000004D2D491C0000000000000543
@@ -192,6 +226,7 @@ t1282890734
 s686
 
 N/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/Debug-iphonesimulator/aBattery.app
+<<<<<<< HEAD
 t1294995125
 s680
 
@@ -206,12 +241,29 @@ s1849
 N/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/Debug-iphonesimulator/aBattery.app/Default.png
 t1294995116
 s17103
+=======
+t2
+s0
+
+N/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/Debug-iphonesimulator/aBattery.app.dSYM
+t2
+s0
+
+N/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/Debug-iphonesimulator/aBattery.app/BatteryGraphViewController.nib
+t2
+s0
+
+N/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/Debug-iphonesimulator/aBattery.app/Default.png
+t2
+s0
+>>>>>>> f235fa75b139b611a1541b68dd888d68ec0b3616
 
 N/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/Debug-iphonesimulator/aBattery.app/Entitlements.plist
 t2
 s0
 
 N/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/Debug-iphonesimulator/aBattery.app/Icon.png
+<<<<<<< HEAD
 t1294995114
 s1307
 
@@ -332,6 +384,123 @@ N/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/core-plot/framework/bui
 c000000004D300EAA0000000000102A48
 t1294995114
 s1059400
+=======
+t2
+s0
+
+N/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/Debug-iphonesimulator/aBattery.app/Info.plist
+t2
+s0
+
+N/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/Debug-iphonesimulator/aBattery.app/MainView.nib
+t2
+s0
+
+N/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/Debug-iphonesimulator/aBattery.app/MainWindow.nib
+t2
+s0
+
+N/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/Debug-iphonesimulator/aBattery.app/PkgInfo
+t2
+s0
+
+N/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/Debug-iphonesimulator/aBattery.app/aBattery
+t2
+s0
+
+N/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/Debug-iphonesimulator/aBattery.app/battery green fill2.png
+t2
+s0
+
+N/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/Debug-iphonesimulator/aBattery.app/battery outline2.png
+t2
+s0
+
+N/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/Debug-iphonesimulator/aBattery.app/battery red fill.png
+t2
+s0
+
+N/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/Debug-iphonesimulator/aBattery.app/battery red fill2.png
+t2
+s0
+
+N/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/Debug-iphonesimulator/aBattery.app/battery yellow fill2.png
+t2
+s0
+
+N/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/Debug-iphonesimulator/aBattery.app/batteryTimes.plist
+t2
+s0
+
+N/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/Debug-iphonesimulator/aBattery.app/battery_tab3.png
+t2
+s0
+
+N/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/Debug-iphonesimulator/aBattery.app/graph.png
+t2
+s0
+
+N/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/Debug-iphonesimulator/aBattery.app/iTunesArtWork.jpg
+t2
+s0
+
+N/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/Debug-iphonesimulator/aBattery.app/setting_tab.png
+t2
+s0
+
+N/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Debug-iphonesimulator/aBattery.build/Objects-normal/i386/Battery.o
+t2
+s0
+
+N/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Debug-iphonesimulator/aBattery.build/Objects-normal/i386/BatteryGraphViewController.o
+t2
+s0
+
+N/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Debug-iphonesimulator/aBattery.build/Objects-normal/i386/FileSystem.o
+t2
+s0
+
+N/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Debug-iphonesimulator/aBattery.build/Objects-normal/i386/HistoryData.o
+t2
+s0
+
+N/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Debug-iphonesimulator/aBattery.build/Objects-normal/i386/HistoryViewController.o
+t2
+s0
+
+N/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Debug-iphonesimulator/aBattery.build/Objects-normal/i386/MainView.o
+t2
+s0
+
+N/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Debug-iphonesimulator/aBattery.build/Objects-normal/i386/MainViewController.o
+t2
+s0
+
+N/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Debug-iphonesimulator/aBattery.build/Objects-normal/i386/SaveData.o
+t2
+s0
+
+N/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Debug-iphonesimulator/aBattery.build/Objects-normal/i386/SettingsViewController.o
+t2
+s0
+
+N/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Debug-iphonesimulator/aBattery.build/Objects-normal/i386/UIDeviceHardware.o
+t2
+s0
+
+N/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Debug-iphonesimulator/aBattery.build/Objects-normal/i386/aBattery.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Debug-iphonesimulator/aBattery.build/Objects-normal/i386/aBatteryAppDelegate.o
+t2
+s0
+
+N/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Debug-iphonesimulator/aBattery.build/Objects-normal/i386/main.o
+t2
+s0
+>>>>>>> f235fa75b139b611a1541b68dd888d68ec0b3616
 
 N/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/graph.png
 c000000004C775BEE0000000000000EDE
@@ -362,6 +531,7 @@ N/var/folders/7X/7XJQQGH0GLSFuXeMESafVE+++TI/-Caches-/com.apple.Xcode.501/Shared
 t2
 s0
 
+<<<<<<< HEAD
 N/var/folders/7X/7XJQQGH0GLSFuXeMESafVE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/aBattery_Prefix-ftguihiwhtbcisatqghlxokodtel/aBattery_Prefix.pch.gch
 t1294995121
 s15461584
@@ -556,11 +726,63 @@ r1
 xCompileXIB
 x/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/MainWindow.xib
 lSLF07#2@25"CompileXIB MainWindow.xib316687916#316687916#0(0"0(0#0#70"/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/MainWindow.xib8625285056#728"    cd "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Volumes/Mac OS Extended/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Volumes/Mac OS Extended/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Volumes/Mac OS Extended/Developer/usr/bin/ibtool" --errors --warnings --notices --output-format human-readable-text --compile "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/Debug-iphonesimulator/aBattery.app/MainWindow.nib" "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/MainWindow.xib" --sdk "/Volumes/Mac OS Extended/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk"0#
+=======
+NaBattery-Info.plist
+c000000004C775BEE0000000000000374
+t1282890734
+s884
+
+CCompileC build/aBattery.build/Debug-iphonesimulator/aBattery.build/Objects-normal/i386/Battery.o "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/Classes/Battery.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/aBattery.build/Debug-iphonesimulator/aBattery.build/Objects-normal/i386/BatteryGraphViewController.o "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/BatteryGraphViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/aBattery.build/Debug-iphonesimulator/aBattery.build/Objects-normal/i386/FileSystem.o "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/Classes/FileSystem.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/aBattery.build/Debug-iphonesimulator/aBattery.build/Objects-normal/i386/HistoryData.o "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/Classes/HistoryData.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/aBattery.build/Debug-iphonesimulator/aBattery.build/Objects-normal/i386/HistoryViewController.o "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/Classes/HistoryViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/aBattery.build/Debug-iphonesimulator/aBattery.build/Objects-normal/i386/MainView.o "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/Classes/MainView.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/aBattery.build/Debug-iphonesimulator/aBattery.build/Objects-normal/i386/MainViewController.o "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/Classes/MainViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/aBattery.build/Debug-iphonesimulator/aBattery.build/Objects-normal/i386/SaveData.o "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/Classes/SaveData.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/aBattery.build/Debug-iphonesimulator/aBattery.build/Objects-normal/i386/SettingsViewController.o "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/SettingsViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/aBattery.build/Debug-iphonesimulator/aBattery.build/Objects-normal/i386/UIDeviceHardware.o "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/UIDeviceHardware.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/aBattery.build/Debug-iphonesimulator/aBattery.build/Objects-normal/i386/aBatteryAppDelegate.o "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/Classes/aBatteryAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/aBattery.build/Debug-iphonesimulator/aBattery.build/Objects-normal/i386/main.o "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileXIB "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/BatteryGraphViewController.xib"
+r0
+
+CCompileXIB "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/MainView.xib"
+r0
+
+CCompileXIB "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/MainWindow.xib"
+r0
+>>>>>>> f235fa75b139b611a1541b68dd888d68ec0b3616
 
 CCopyPlistFile "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/Debug-iphonesimulator/aBattery.app/Entitlements.plist" Entitlements.plist
 r0
 
 CCopyPlistFile "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/Debug-iphonesimulator/aBattery.app/batteryTimes.plist" batteryTimes.plist
+<<<<<<< HEAD
 s316687915.613885
 e316687916.352133
 r1
@@ -696,10 +918,56 @@ xProcessInfoPlistFile
 x/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/Debug-iphonesimulator/aBattery.app/Info.plist
 xaBattery-Info.plist
 lSLF07#2@27"Process aBattery-Info.plist316687914#316687914#0(0"0(0#0#75"/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/aBattery-Info.plist8615258560#587"    cd "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery"    setenv PATH "/Volumes/Mac OS Extended/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Volumes/Mac OS Extended/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility aBattery-Info.plist -genpkginfo "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/Debug-iphonesimulator/aBattery.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/Debug-iphonesimulator/aBattery.app/Info.plist"0#
+=======
+r0
+
+CCpResource "build/Debug-iphonesimulator/aBattery.app/battery green fill2.png" "battery green fill2.png"
+r0
+
+CCpResource "build/Debug-iphonesimulator/aBattery.app/battery outline2.png" "battery outline2.png"
+r0
+
+CCpResource "build/Debug-iphonesimulator/aBattery.app/battery red fill.png" "battery red fill.png"
+r0
+
+CCpResource "build/Debug-iphonesimulator/aBattery.app/battery red fill2.png" "battery red fill2.png"
+r0
+
+CCpResource "build/Debug-iphonesimulator/aBattery.app/battery yellow fill2.png" "battery yellow fill2.png"
+r0
+
+CCpResource build/Debug-iphonesimulator/aBattery.app/Default.png Default.png
+r0
+
+CCpResource build/Debug-iphonesimulator/aBattery.app/Icon.png Icon.png
+r0
+
+CCpResource build/Debug-iphonesimulator/aBattery.app/battery_tab3.png battery_tab3.png
+r0
+
+CCpResource build/Debug-iphonesimulator/aBattery.app/graph.png graph.png
+r0
+
+CCpResource build/Debug-iphonesimulator/aBattery.app/iTunesArtWork.jpg iTunesArtWork.jpg
+r0
+
+CCpResource build/Debug-iphonesimulator/aBattery.app/setting_tab.png setting_tab.png
+r0
+
+CGenerateDSYMFile "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/Debug-iphonesimulator/aBattery.app.dSYM" "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/Debug-iphonesimulator/aBattery.app/aBattery"
+r0
+
+CLd "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/Debug-iphonesimulator/aBattery.app/aBattery" normal i386
+r0
+
+CProcessInfoPlistFile "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/Debug-iphonesimulator/aBattery.app/Info.plist" aBattery-Info.plist
+r0
+>>>>>>> f235fa75b139b611a1541b68dd888d68ec0b3616
 
 CProcessPCH /var/folders/7X/7XJQQGH0GLSFuXeMESafVE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/aBattery_Prefix-ehqtnjejeckuknctgakrcfapigwt/aBattery_Prefix.pch.gch aBattery_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
 r0
 
+<<<<<<< HEAD
 CProcessPCH /var/folders/7X/7XJQQGH0GLSFuXeMESafVE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/aBattery_Prefix-ftguihiwhtbcisatqghlxokodtel/aBattery_Prefix.pch.gch aBattery_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
 s316687916.786797
 e316687922.959296
@@ -720,4 +988,8 @@ r1
 xTouch
 x/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/Debug-iphonesimulator/aBattery.app
 lSLF07#2@102"Touch /Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/Debug-iphonesimulator/aBattery.app316687925#316687925#0(0"0(0#0#0"8620599616#365"    cd "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery"    setenv PATH "/Volumes/Mac OS Extended/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Volumes/Mac OS Extended/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/Debug-iphonesimulator/aBattery.app"0#
+=======
+CTouch "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/Debug-iphonesimulator/aBattery.app"
+r0
+>>>>>>> f235fa75b139b611a1541b68dd888d68ec0b3616
 

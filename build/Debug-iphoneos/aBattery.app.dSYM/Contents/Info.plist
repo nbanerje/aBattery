@@ -13,6 +13,10 @@
 		<key>CFBundleSignature</key>
 		<string>????</string>
 		<key>CFBundleVersion</key>
+<<<<<<< HEAD
 		<string>4.1</string>
+=======
+		<string>4.0</string>
+>>>>>>> f235fa75b139b611a1541b68dd888d68ec0b3616
 	</dict>
 </plist>
