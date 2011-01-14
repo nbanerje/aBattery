@@ -17,7 +17,7 @@
 @synthesize window;
 @synthesize tabController;
 
-<<<<<<< HEAD
+
 @synthesize settingsDictionary;
 @synthesize battery;
 @synthesize switchKeys;
@@ -34,9 +34,6 @@
 		
 	batteryHistory = [[HistoryData alloc] init];
 	
-=======
-- (void)applicationDidFinishLaunching:(UIApplication *)application {
->>>>>>> f235fa75b139b611a1541b68dd888d68ec0b3616
 	
 	tabController = [[UITabBarController alloc] init];
 	
@@ -48,44 +45,26 @@
 	[[BatteryGraphViewController alloc] initWithNibName:@"BatteryGraphViewController" bundle:nil];
 	
 	graphViewController.view.frame = [UIScreen mainScreen].applicationFrame;	
-<<<<<<< HEAD
 	graphViewController.dataForPlot =  batteryHistory;
-=======
-	graphViewController.dataForPlot =  mainViewController.batteryHistory;
->>>>>>> f235fa75b139b611a1541b68dd888d68ec0b3616
 	 
 	HistoryViewController *historyViewController =  
 	[[HistoryViewController alloc] initWithStyle:UITableViewStyleGrouped];
 	historyViewController.view.frame = [UIScreen mainScreen].applicationFrame;
 	
 	//Make connection for the History Data
-<<<<<<< HEAD
 	historyViewController.batteryHistory = batteryHistory;
-=======
-	historyViewController.batteryHistory = mainViewController.batteryHistory;
->>>>>>> f235fa75b139b611a1541b68dd888d68ec0b3616
 	
 	SettingsViewController *settingsViewController =  
 	[[SettingsViewController alloc] initWithStyle:UITableViewStyleGrouped];
 	settingsViewController.view.frame = [UIScreen mainScreen].applicationFrame;
 	
 	//Make connection for the settings dictionary
-<<<<<<< HEAD
 	settingsViewController.settingsDictionary = settingsDictionary;
 	settingsViewController.switchKeys = switchKeys;
 	
 	//Make connection for the History Data
 	settingsViewController.batteryHistory = batteryHistory;
-=======
-	settingsViewController.settingsDictionary = mainViewController.settingsDictionary;
-	settingsViewController.switchKeys = mainViewController.switchKeys;
-	
-	//Make connection for the History Data
-	settingsViewController.batteryHistory = mainViewController.batteryHistory;
->>>>>>> f235fa75b139b611a1541b68dd888d68ec0b3616
-	
-    
-	
+
 	NSArray *tabArray = [NSArray arrayWithObjects:mainViewController,
 						                          graphViewController,
 						                          historyViewController,
@@ -105,23 +84,16 @@
 }
 - (void)applicationWillTerminate:(UIApplication *)application {
 	 [(MainViewController*)[tabController.viewControllers objectAtIndex:0]  saveUserDefaults];
-<<<<<<< HEAD
 	 [batteryHistory saveDataToDisk];
-=======
-	 //[[NSUserDefaults standardUserDefaults] registerDefaults:mainViewController.userDefaults];
-	 //[[NSUserDefaults standardUserDefaults] synchronize]; 
->>>>>>> f235fa75b139b611a1541b68dd888d68ec0b3616
+
 }
 
 - (void)dealloc {
 	[window release];
-<<<<<<< HEAD
 	[settingsDictionary release];
 	[battery release];
 	[switchKeys release];
 	[batteryHistory release];
-=======
->>>>>>> f235fa75b139b611a1541b68dd888d68ec0b3616
     [super dealloc];
 }
 

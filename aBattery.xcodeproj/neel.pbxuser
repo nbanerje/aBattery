@@ -1,631 +1,151 @@
 // !$*UTF8*$!
 {
-<<<<<<< HEAD
-	18027FAF12E03A54008067C4 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 181D9DEB12DDC967009D8043 /* aBattery.xcent */;
-=======
-	181D9D4E12DDC4C6009D8043 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 18FD204512DDC478000DE9CC /* aBattery.xcent */;
->>>>>>> f235fa75b139b611a1541b68dd888d68ec0b3616
-		name = "aBattery.xcent: 1";
-		rLen = 0;
-		rLoc = 0;
-		rType = 0;
-		vrLen = 423;
-		vrLoc = 0;
-	};
-<<<<<<< HEAD
-	181D9DEB12DDC967009D8043 /* aBattery.xcent */ = {
-		isa = PBXFileReference;
-		lastKnownFileType = text.xml;
-		name = aBattery.xcent;
-		path = "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/aBattery.xcent";
-		sourceTree = "<absolute>";
-	};
-	184BCECF12E0456B002E763D /* MainViewController.m:75 */ = {
-		isa = PBXFileBreakpoint;
-		actions = (
+	184BCF9512E05D91002E763D /* aBattery */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
 		);
-		breakpointStyle = 0;
-		continueAfterActions = 0;
-		countType = 0;
-		delayBeforeContinue = 0;
-		fileReference = 289233A90DB2D0DB0083E9F9 /* MainViewController.m */;
-		functionName = "-initWithNibName:bundle:";
-		hitCount = 1;
-		ignoreCount = 0;
-		lineNumber = 75;
-		location = aBattery;
-		modificationTime = 316688090.102319;
-		originalNumberOfMultipleMatches = 1;
-		state = 1;
-	};
-	184BCED812E04637002E763D /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = ABAEB33F0FB93FD900B96014 /* HistoryViewController.m */;
-		name = "HistoryViewController.m: 1";
-		rLen = 0;
-		rLoc = 0;
-		rType = 0;
-		vrLen = 718;
-		vrLoc = 4902;
-	};
-	184BCED912E04637002E763D /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 1D3623240D0F684500981E51 /* aBatteryAppDelegate.h */;
-		name = "aBatteryAppDelegate.h: 19";
-		rLen = 0;
-		rLoc = 430;
-		rType = 0;
-		vrLen = 680;
-		vrLoc = 141;
-	};
-	184BCEFB12E046C8002E763D /* MainViewController.m:356 */ = {
-		isa = PBXFileBreakpoint;
-		actions = (
+		argumentStrings = (
 		);
-		breakpointStyle = 0;
-		continueAfterActions = 0;
-		countType = 0;
-		delayBeforeContinue = 0;
-		fileReference = 289233A90DB2D0DB0083E9F9 /* MainViewController.m */;
-		functionName = "-changeDisplay";
-		hitCount = 0;
-		ignoreCount = 0;
-		lineNumber = 356;
-		location = aBattery;
-		modificationTime = 316688084.245986;
-		originalNumberOfMultipleMatches = 1;
-		state = 1;
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = aBattery;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
 	};
-	184BCF1412E048EB002E763D /* MainViewController.h */ = {
-		isa = PBXFileReference;
-		lastKnownFileType = sourcecode.c.h;
-		name = MainViewController.h;
-		path = "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/Classes/MainViewController.h";
-		sourceTree = "<absolute>";
-		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {1191, 1664}}";
-			sepNavSelRange = "{3266, 0}";
-			sepNavVisRange = "{1886, 1386}";
-			sepNavWindowFrame = "{{15, 96}, {1250, 677}}";
+	184BCF9E12E05D9C002E763D /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
 		};
 	};
-	184BCF2712E04A0D002E763D /* MainViewController.m */ = {
-		isa = PBXFileReference;
-		lastKnownFileType = sourcecode.c.objc;
-		name = MainViewController.m;
-		path = "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/Classes/MainViewController.m";
-		sourceTree = "<absolute>";
-		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {720, 12779}}";
-			sepNavSelRange = "{32674, 0}";
-			sepNavVisRange = "{32912, 16}";
-			sepNavWindowFrame = "{{432, 101}, {1250, 677}}";
-		};
+	184BCF9F12E05D9C002E763D /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
 	};
-	184BCF3512E04DE2002E763D /* PBXTextBookmark */ = {
+	184BCFA912E0606C002E763D /* PBXTextBookmark */ = {
 		isa = PBXTextBookmark;
-		fRef = 289233A50DB2D0840083E9F9 /* MainView.m */;
-		name = "MainView.m: 1";
+		fRef = 289233A90DB2D0DB0083E9F9 /* MainViewController.m */;
+		name = "MainViewController.m: 1";
 		rLen = 0;
 		rLoc = 0;
 		rType = 0;
-		vrLen = 293;
-		vrLoc = 134;
-	};
-	184BCF3612E04DE2002E763D /* PlistBookmark */ = {
-		isa = PlistBookmark;
-		fRef = 8D1107310486CEB800E47090 /* aBattery-Info.plist */;
-		fallbackIsa = PBXBookmark;
-		isK = 0;
-		kPath = (
-		);
-		name = "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/aBattery-Info.plist";
-		rLen = 0;
-		rLoc = 9223372036854775807;
-	};
-	184BCF3812E04DE2002E763D /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 184BCF1412E048EB002E763D /* MainViewController.h */;
-		name = "MainViewController.h: 124";
-		rLen = 0;
-		rLoc = 3174;
-		rType = 0;
-		vrLen = 667;
-		vrLoc = 2605;
-	};
-	184BCF3A12E04DE2002E763D /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = AB9BB2E60FA81264004AD35F /* FileSystem.m */;
-		name = "FileSystem.m: 1";
-		rLen = 0;
-		rLoc = 0;
-		rType = 0;
-		vrLen = 651;
-		vrLoc = 3116;
-	};
-	184BCF3B12E04DE2002E763D /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = AB9BB2E30FA8125A004AD35F /* FileSystem.h */;
-		name = "FileSystem.h: 1";
-		rLen = 0;
-		rLoc = 0;
-		rType = 0;
-		vrLen = 663;
+		vrLen = 586;
 		vrLoc = 0;
 	};
-	184BCF3C12E04DE2002E763D /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = AB323AF00FB7AEFF00DB3FFB /* HistoryData.m */;
-		name = "HistoryData.m: 173";
-		rLen = 0;
-		rLoc = 5365;
-		rType = 0;
-		vrLen = 575;
-		vrLoc = 6958;
-	};
-	184BCF3F12E04DE2002E763D /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = AB4424EB1054C75D00E2D7B1 /* UIDeviceHardware.m */;
-		name = "UIDeviceHardware.m: 1";
-		rLen = 0;
-		rLoc = 0;
-		rType = 0;
-		vrLen = 1094;
-		vrLoc = 253;
-	};
-	184BCF6512E05434002E763D /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 1D3623250D0F684500981E51 /* aBatteryAppDelegate.m */;
-		name = "aBatteryAppDelegate.m: 70";
-		rLen = 0;
-		rLoc = 2280;
-		rType = 0;
-		vrLen = 1057;
-		vrLoc = 1355;
-	};
-	184BCF6612E05434002E763D /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 184BCF2712E04A0D002E763D /* MainViewController.m */;
-		name = "MainViewController.m: 79";
-		rLen = 0;
-		rLoc = 2075;
-		rType = 0;
-		vrLen = 597;
-		vrLoc = 32331;
-	};
-	184BCF6712E05434002E763D /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = ABAA57411054472B003145AC /* BatteryGraphViewController.m */;
-		name = "BatteryGraphViewController.m: 51";
-		rLen = 0;
-		rLoc = 1618;
-		rType = 0;
-		vrLen = 1115;
-		vrLoc = 557;
-	};
-	184BCF6812E05434002E763D /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = ABA297FD10537FC00071E951 /* BatteryGraphViewController.h */;
-		name = "BatteryGraphViewController.h: 1";
-		rLen = 0;
-		rLoc = 0;
-		rType = 0;
-		vrLen = 757;
-		vrLoc = 0;
-	};
-	184BCF6912E05434002E763D /* PBXTextBookmark */ = {
+	184BCFAA12E0606C002E763D /* PBXTextBookmark */ = {
 		isa = PBXTextBookmark;
 		fRef = AB66E33E0FC2699C00092B6F /* SettingsViewController.h */;
 		name = "SettingsViewController.h: 1";
 		rLen = 0;
 		rLoc = 0;
 		rType = 0;
-		vrLen = 737;
+		vrLen = 743;
 		vrLoc = 0;
 	};
-	184BCF6A12E05434002E763D /* PBXTextBookmark */ = {
+	184BCFAB12E0606C002E763D /* PBXTextBookmark */ = {
 		isa = PBXTextBookmark;
 		fRef = AB66E33F0FC2699C00092B6F /* SettingsViewController.m */;
-		name = "SettingsViewController.m: 110";
+		name = "SettingsViewController.m: 188";
 		rLen = 0;
-		rLoc = 3639;
+		rLoc = 7139;
 		rType = 0;
-		vrLen = 1364;
-		vrLoc = 3786;
+		vrLen = 1252;
+		vrLoc = 5976;
 	};
-	184BCF6B12E05434002E763D /* PlistBookmark */ = {
-		isa = PlistBookmark;
-		fRef = AB4425291054CC8A00E2D7B1 /* batteryTimes.plist */;
-=======
-	181D9DDB12DDC520009D8043 /* PBXTextBookmark */ = {
+	184BCFAC12E0606C002E763D /* XCBuildMessageTextBookmark */ = {
 		isa = PBXTextBookmark;
-		fRef = 18FD204512DDC478000DE9CC /* aBattery.xcent */;
-		name = "aBattery.xcent: 1";
-		rLen = 0;
-		rLoc = 0;
-		rType = 0;
-		vrLen = 423;
-		vrLoc = 0;
+		comments = "Expected expression before '<<' token";
+		fRef = AB323AF00FB7AEFF00DB3FFB /* HistoryData.m */;
+		fallbackIsa = XCBuildMessageTextBookmark;
+		rLen = 1;
+		rLoc = 140;
+		rType = 1;
 	};
-	181D9DE612DDC555009D8043 /* PBXTextBookmark */ = {
+	184BCFB712E060B2002E763D /* PBXTextBookmark */ = {
 		isa = PBXTextBookmark;
-		fRef = 18FD204512DDC478000DE9CC /* aBattery.xcent */;
-		name = "aBattery.xcent: 1";
+		fRef = AB323AF00FB7AEFF00DB3FFB /* HistoryData.m */;
+		name = "HistoryData.m: 141";
 		rLen = 0;
-		rLoc = 0;
+		rLoc = 4378;
 		rType = 0;
-		vrLen = 423;
-		vrLoc = 0;
-	};
-	1883775F12DAE16700F18AF2 /* aBattery */ = {
-		isa = PBXExecutable;
-		activeArgIndices = (
-		);
-		argumentStrings = (
-		);
-		autoAttachOnCrash = 1;
-		breakpointsEnabled = 0;
-		configStateDict = {
-		};
-		customDataFormattersEnabled = 1;
-		dataTipCustomDataFormattersEnabled = 1;
-		dataTipShowTypeColumn = 1;
-		dataTipSortType = 0;
-		debuggerPlugin = GDBDebugging;
-		disassemblyDisplayState = 0;
-		dylibVariantSuffix = "";
-		enableDebugStr = 1;
-		environmentEntries = (
-		);
-		executableSystemSymbolLevel = 0;
-		executableUserSymbolLevel = 0;
-		libgmallocEnabled = 0;
-		name = aBattery;
-		savedGlobals = {
-		};
-		showTypeColumn = 0;
-		sourceDirectories = (
-		);
-	};
-	1883777012DAE18400F18AF2 /* Source Control */ = {
-		isa = PBXSourceControlManager;
-		fallbackIsa = XCSourceControlManager;
-		isSCMEnabled = 0;
-		scmConfiguration = {
-			repositoryNamesForRoots = {
-				"" = "";
-			};
-		};
-	};
-	1883777112DAE18400F18AF2 /* Code sense */ = {
-		isa = PBXCodeSenseManager;
-		indexTemplatePath = "";
-	};
-	18DD6C6812DD9F85003335F5 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = ABA297FD10537FC00071E951 /* BatteryGraphViewController.h */;
-		name = "BatteryGraphViewController.h: 1";
-		rLen = 0;
-		rLoc = 0;
-		rType = 0;
-		vrLen = 1122;
-		vrLoc = 0;
-	};
-	18DD6CA812DDA3B1003335F5 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = ABAA57411054472B003145AC /* BatteryGraphViewController.m */;
-		name = "BatteryGraphViewController.m: 1";
-		rLen = 0;
-		rLoc = 0;
-		rType = 0;
-		vrLen = 778;
-		vrLoc = 0;
-	};
-	18F125DB12DD7AA80043A1E1 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 1D3623250D0F684500981E51 /* aBatteryAppDelegate.m */;
-		name = "aBatteryAppDelegate.m: 1";
-		rLen = 0;
-		rLoc = 0;
-		rType = 0;
-		vrLen = 716;
-		vrLoc = 0;
-	};
-	18F1260312DD7E350043A1E1 /* PlistBookmark */ = {
-		isa = PlistBookmark;
-		fRef = AB4425291054CC8A00E2D7B1 /* batteryTimes.plist */;
-		fallbackIsa = PBXBookmark;
-		isK = 0;
-		kPath = (
-		);
-		name = "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/batteryTimes.plist";
-		rLen = 0;
-		rLoc = 9223372036854775808;
-	};
-	18F1261712DD80A90043A1E1 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = AB9BB2EB0FA81277004AD35F /* Battery.m */;
-		name = "Battery.m: 20";
-		rLen = 16;
-		rLoc = 494;
-		rType = 0;
-		vrLen = 773;
-		vrLoc = 0;
-	};
-	18F1266512DD88210043A1E1 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = AB4424EB1054C75D00E2D7B1 /* UIDeviceHardware.m */;
-		name = "UIDeviceHardware.m: 1";
-		rLen = 0;
-		rLoc = 0;
-		rType = 0;
-		vrLen = 921;
-		vrLoc = 0;
-	};
-	18FD201312DDC104000DE9CC /* CPLayer.m */ = {
-		isa = PBXFileReference;
-		lastKnownFileType = sourcecode.c.objc;
-		name = CPLayer.m;
-		path = "/Volumes/Mac OS Extended/core-plot/framework/Source/CPLayer.m";
-		sourceTree = "<absolute>";
-	};
-	18FD201E12DDC265000DE9CC /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 18FD201312DDC104000DE9CC /* CPLayer.m */;
-		name = "CPLayer.m: 207";
-		rLen = 0;
-		rLoc = 6033;
-		rType = 0;
-		vrLen = 690;
-		vrLoc = 0;
-	};
-	18FD204112DDC478000DE9CC /* PlistBookmark */ = {
-		isa = PlistBookmark;
-		fRef = 8D1107310486CEB800E47090 /* aBattery-Info.plist */;
->>>>>>> f235fa75b139b611a1541b68dd888d68ec0b3616
-		fallbackIsa = PBXBookmark;
-		isK = 0;
-		kPath = (
-		);
-<<<<<<< HEAD
-		name = "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/batteryTimes.plist";
-		rLen = 0;
-		rLoc = 9223372036854775807;
-	};
-	184BCF6C12E05434002E763D /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = AB9BB2EA0FA81277004AD35F /* Battery.h */;
-		name = "Battery.h: 48";
-		rLen = 0;
-		rLoc = 1263;
-		rType = 0;
-		vrLen = 679;
-		vrLoc = 641;
-	};
-	184BCF6D12E05434002E763D /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = AB9BB2EB0FA81277004AD35F /* Battery.m */;
-		name = "Battery.m: 20";
-		rLen = 16;
-		rLoc = 494;
-		rType = 0;
-		vrLen = 769;
-		vrLoc = 2295;
-	};
-	184BCF6E12E05434002E763D /* PBXBookmark */ = {
-		isa = PBXBookmark;
-		fRef = AB323AEF0FB7AEFF00DB3FFB /* HistoryData.h */;
-	};
-	184BCF8D12E05701002E763D /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = AB323AEF0FB7AEFF00DB3FFB /* HistoryData.h */;
-		name = "HistoryData.h: 1";
-		rLen = 0;
-		rLoc = 0;
-		rType = 0;
-		vrLen = 624;
-		vrLoc = 0;
-	};
-	1883775F12DAE16700F18AF2 /* aBattery */ = {
-		isa = PBXExecutable;
-		activeArgIndices = (
-		);
-		argumentStrings = (
-		);
-		autoAttachOnCrash = 1;
-		breakpointsEnabled = 0;
-		configStateDict = {
-		};
-		customDataFormattersEnabled = 1;
-		dataTipCustomDataFormattersEnabled = 1;
-		dataTipShowTypeColumn = 1;
-		dataTipSortType = 0;
-		debuggerPlugin = GDBDebugging;
-		disassemblyDisplayState = 0;
-		dylibVariantSuffix = "";
-		enableDebugStr = 1;
-		environmentEntries = (
-		);
-		executableSystemSymbolLevel = 0;
-		executableUserSymbolLevel = 0;
-		libgmallocEnabled = 0;
-		name = aBattery;
-		savedGlobals = {
-		};
-		showTypeColumn = 0;
-		sourceDirectories = (
-		);
-		variableFormatDictionary = {
-		};
-	};
-	1883777012DAE18400F18AF2 /* Source Control */ = {
-		isa = PBXSourceControlManager;
-		fallbackIsa = XCSourceControlManager;
-		isSCMEnabled = 0;
-		scmConfiguration = {
-			repositoryNamesForRoots = {
-				"" = "";
-			};
-		};
-	};
-	1883777112DAE18400F18AF2 /* Code sense */ = {
-		isa = PBXCodeSenseManager;
-		indexTemplatePath = "";
+		vrLen = 847;
+		vrLoc = 3919;
 	};
 	1D3623240D0F684500981E51 /* aBatteryAppDelegate.h */ = {
 		uiCtxt = {
 			sepNavIntBoundsRect = "{{0, 0}, {1191, 549}}";
-			sepNavSelRange = "{657, 48}";
-			sepNavVisRange = "{0, 822}";
+			sepNavSelRange = "{587, 0}";
+			sepNavVisRange = "{0, 823}";
 			sepNavWindowFrame = "{{15, 96}, {1250, 677}}";
-=======
-		name = "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/aBattery-Info.plist";
-		rLen = 0;
-		rLoc = 9223372036854775808;
-	};
-	18FD204212DDC478000DE9CC /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		comments = "ProcessProductPackaging \"/Volumes/Mac OS Extended/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist\" build/aBattery.build/Distribution-iphoneos/aBattery.build/aBattery.xcent";
-		fRef = 18FD204312DDC478000DE9CC /* aBattery.xcent */;
-		rLen = 0;
-		rLoc = 0;
-		rType = 1;
-	};
-	18FD204312DDC478000DE9CC /* aBattery.xcent */ = {
-		isa = PBXFileReference;
-		lastKnownFileType = text.xml;
-		name = aBattery.xcent;
-		path = "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/aBattery.xcent";
-		sourceTree = "<absolute>";
-	};
-	18FD204412DDC478000DE9CC /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 18FD204512DDC478000DE9CC /* aBattery.xcent */;
-		name = "aBattery.xcent: 1";
-		rLen = 0;
-		rLoc = 0;
-		rType = 0;
-		vrLen = 423;
-		vrLoc = 0;
-	};
-	18FD204512DDC478000DE9CC /* aBattery.xcent */ = {
-		isa = PBXFileReference;
-		lastKnownFileType = text.xml;
-		name = aBattery.xcent;
-		path = "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/aBattery.xcent";
-		sourceTree = "<absolute>";
-		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {726, 338}}";
-			sepNavSelRange = "{0, 0}";
-			sepNavVisRange = "{0, 423}";
->>>>>>> f235fa75b139b611a1541b68dd888d68ec0b3616
 		};
 	};
 	1D3623250D0F684500981E51 /* aBatteryAppDelegate.m */ = {
 		uiCtxt = {
-<<<<<<< HEAD
-			sepNavIntBoundsRect = "{{0, 0}, {883, 1274}}";
-			sepNavSelRange = "{2866, 0}";
-			sepNavVisRange = "{2248, 722}";
-=======
-			sepNavIntBoundsRect = "{{0, 0}, {1191, 1105}}";
-			sepNavSelRange = "{528, 18}";
-			sepNavVisRange = "{316, 1722}";
->>>>>>> f235fa75b139b611a1541b68dd888d68ec0b3616
-			sepNavWindowFrame = "{{118, -54}, {1250, 677}}";
+			sepNavIntBoundsRect = "{{0, 0}, {1191, 1326}}";
+			sepNavSelRange = "{402, 0}";
+			sepNavVisRange = "{0, 1130}";
+			sepNavWindowFrame = "{{15, 96}, {1250, 677}}";
 		};
 	};
 	1D6058900D05DD3D006BFB54 /* aBattery */ = {
 		activeExec = 0;
 		executables = (
-			1883775F12DAE16700F18AF2 /* aBattery */,
+			184BCF9512E05D91002E763D /* aBattery */,
 		);
-	};
-<<<<<<< HEAD
-	289233A50DB2D0840083E9F9 /* MainView.m */ = {
-		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {720, 429}}";
-			sepNavSelRange = "{0, 0}";
-			sepNavVisRange = "{134, 293}";
-		};
 	};
 	289233A80DB2D0DB0083E9F9 /* MainViewController.h */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {720, 1586}}";
-			sepNavSelRange = "{3130, 15}";
-			sepNavVisRange = "{2987, 279}";
+			sepNavIntBoundsRect = "{{0, 0}, {1191, 1625}}";
+			sepNavSelRange = "{3257, 0}";
+			sepNavVisRange = "{1877, 1386}";
+			sepNavWindowFrame = "{{15, 96}, {1250, 677}}";
 		};
 	};
 	289233A90DB2D0DB0083E9F9 /* MainViewController.m */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {720, 12831}}";
-			sepNavSelRange = "{32541, 8}";
-			sepNavVisRange = "{32266, 425}";
-			sepNavWindowFrame = "{{5, 80}, {1250, 677}}";
-=======
-	289233A90DB2D0DB0083E9F9 /* MainViewController.m */ = {
-		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {1191, 15210}}";
-			sepNavSelRange = "{33059, 0}";
-			sepNavVisRange = "{31019, 1162}";
+			sepNavIntBoundsRect = "{{0, 0}, {711, 12792}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 586}";
 			sepNavWindowFrame = "{{15, 96}, {1250, 677}}";
->>>>>>> f235fa75b139b611a1541b68dd888d68ec0b3616
 		};
 	};
 	29B97313FDCFA39411CA2CEA /* Project object */ = {
-		activeArchitecturePreference = armv6;
-<<<<<<< HEAD
-		activeBuildConfigurationName = Distribution;
-=======
 		activeBuildConfigurationName = Debug;
->>>>>>> f235fa75b139b611a1541b68dd888d68ec0b3616
-		activeExecutable = 1883775F12DAE16700F18AF2 /* aBattery */;
-		activeSDKPreference = iphoneos4.2;
+		activeExecutable = 184BCF9512E05D91002E763D /* aBattery */;
 		activeTarget = 1D6058900D05DD3D006BFB54 /* aBattery */;
-		addToTargets = (
-			1D6058900D05DD3D006BFB54 /* aBattery */,
-		);
-<<<<<<< HEAD
-		breakpoints = (
-			184BCECF12E0456B002E763D /* MainViewController.m:75 */,
-			184BCEFB12E046C8002E763D /* MainViewController.m:356 */,
-		);
-=======
->>>>>>> f235fa75b139b611a1541b68dd888d68ec0b3616
-		codeSenseManager = 1883777112DAE18400F18AF2 /* Code sense */;
+		codeSenseManager = 184BCF9F12E05D9C002E763D /* Code sense */;
 		executables = (
-			1883775F12DAE16700F18AF2 /* aBattery */,
+			184BCF9512E05D91002E763D /* aBattery */,
 		);
 		perUserDictionary = {
-<<<<<<< HEAD
-			PBXConfiguration.PBXFileTableDataSource3.PBXExecutablesDataSource = {
-				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
-				PBXFileTableDataSourceColumnSortingKey = PBXExecutablesDataSource_NameID;
-				PBXFileTableDataSourceColumnWidthsKey = (
-					22,
-					300,
-					430,
-				);
-				PBXFileTableDataSourceColumnsKey = (
-					PBXExecutablesDataSource_ActiveFlagID,
-					PBXExecutablesDataSource_NameID,
-					PBXExecutablesDataSource_CommentsID,
-				);
-			};
-=======
->>>>>>> f235fa75b139b611a1541b68dd888d68ec0b3616
 			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
 				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
 				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
 				PBXFileTableDataSourceColumnWidthsKey = (
 					20,
-					542,
+					533,
 					20,
-					48,
+					48.16259765625,
 					43,
 					43,
 					20,
@@ -640,234 +160,40 @@
 					PBXFileDataSource_Target_ColumnID,
 				);
 			};
-			PBXConfiguration.PBXFileTableDataSource3.XCSCMDataSource = {
-				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
-				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
-				PBXFileTableDataSourceColumnWidthsKey = (
-					20,
-					20,
-					354,
-					20,
-					48,
-					43,
-					43,
-					20,
-				);
-				PBXFileTableDataSourceColumnsKey = (
-					PBXFileDataSource_SCM_ColumnID,
-					PBXFileDataSource_FiletypeID,
-					PBXFileDataSource_Filename_ColumnID,
-					PBXFileDataSource_Built_ColumnID,
-					PBXFileDataSource_ObjectSize_ColumnID,
-					PBXFileDataSource_Errors_ColumnID,
-					PBXFileDataSource_Warnings_ColumnID,
-					PBXFileDataSource_Target_ColumnID,
-				);
-			};
-			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
-				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
-				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
-				PBXFileTableDataSourceColumnWidthsKey = (
-					20,
-					502,
-					60,
-					20,
-					48,
-					43,
-					43,
-				);
-				PBXFileTableDataSourceColumnsKey = (
-					PBXFileDataSource_FiletypeID,
-					PBXFileDataSource_Filename_ColumnID,
-					PBXTargetDataSource_PrimaryAttribute,
-					PBXFileDataSource_Built_ColumnID,
-					PBXFileDataSource_ObjectSize_ColumnID,
-					PBXFileDataSource_Errors_ColumnID,
-					PBXFileDataSource_Warnings_ColumnID,
-				);
-			};
-<<<<<<< HEAD
-			PBXPerProjectTemplateStateSaveDate = 316684904;
-			PBXWorkspaceStateSaveDate = 316684904;
+			PBXPerProjectTemplateStateSaveDate = 316693905;
+			PBXWorkspaceStateSaveDate = 316693905;
 		};
 		perUserProjectItems = {
-			18027FAF12E03A54008067C4 /* PBXTextBookmark */ = 18027FAF12E03A54008067C4 /* PBXTextBookmark */;
-			184BCED812E04637002E763D /* PBXTextBookmark */ = 184BCED812E04637002E763D /* PBXTextBookmark */;
-			184BCED912E04637002E763D /* PBXTextBookmark */ = 184BCED912E04637002E763D /* PBXTextBookmark */;
-			184BCF3512E04DE2002E763D /* PBXTextBookmark */ = 184BCF3512E04DE2002E763D /* PBXTextBookmark */;
-			184BCF3612E04DE2002E763D /* PlistBookmark */ = 184BCF3612E04DE2002E763D /* PlistBookmark */;
-			184BCF3812E04DE2002E763D /* PBXTextBookmark */ = 184BCF3812E04DE2002E763D /* PBXTextBookmark */;
-			184BCF3A12E04DE2002E763D /* PBXTextBookmark */ = 184BCF3A12E04DE2002E763D /* PBXTextBookmark */;
-			184BCF3B12E04DE2002E763D /* PBXTextBookmark */ = 184BCF3B12E04DE2002E763D /* PBXTextBookmark */;
-			184BCF3C12E04DE2002E763D /* PBXTextBookmark */ = 184BCF3C12E04DE2002E763D /* PBXTextBookmark */;
-			184BCF3F12E04DE2002E763D /* PBXTextBookmark */ = 184BCF3F12E04DE2002E763D /* PBXTextBookmark */;
-			184BCF6512E05434002E763D /* PBXTextBookmark */ = 184BCF6512E05434002E763D /* PBXTextBookmark */;
-			184BCF6612E05434002E763D /* PBXTextBookmark */ = 184BCF6612E05434002E763D /* PBXTextBookmark */;
-			184BCF6712E05434002E763D /* PBXTextBookmark */ = 184BCF6712E05434002E763D /* PBXTextBookmark */;
-			184BCF6812E05434002E763D /* PBXTextBookmark */ = 184BCF6812E05434002E763D /* PBXTextBookmark */;
-			184BCF6912E05434002E763D /* PBXTextBookmark */ = 184BCF6912E05434002E763D /* PBXTextBookmark */;
-			184BCF6A12E05434002E763D /* PBXTextBookmark */ = 184BCF6A12E05434002E763D /* PBXTextBookmark */;
-			184BCF6B12E05434002E763D /* PlistBookmark */ = 184BCF6B12E05434002E763D /* PlistBookmark */;
-			184BCF6C12E05434002E763D /* PBXTextBookmark */ = 184BCF6C12E05434002E763D /* PBXTextBookmark */;
-			184BCF6D12E05434002E763D /* PBXTextBookmark */ = 184BCF6D12E05434002E763D /* PBXTextBookmark */;
-			184BCF6E12E05434002E763D /* PBXBookmark */ = 184BCF6E12E05434002E763D /* PBXBookmark */;
-			184BCF8D12E05701002E763D /* PBXTextBookmark */ = 184BCF8D12E05701002E763D /* PBXTextBookmark */;
-=======
-			PBXPerProjectTemplateStateSaveDate = 316523715;
-			PBXWorkspaceStateSaveDate = 316523715;
+			184BCFA912E0606C002E763D /* PBXTextBookmark */ = 184BCFA912E0606C002E763D /* PBXTextBookmark */;
+			184BCFAA12E0606C002E763D /* PBXTextBookmark */ = 184BCFAA12E0606C002E763D /* PBXTextBookmark */;
+			184BCFAB12E0606C002E763D /* PBXTextBookmark */ = 184BCFAB12E0606C002E763D /* PBXTextBookmark */;
+			184BCFAC12E0606C002E763D /* XCBuildMessageTextBookmark */ = 184BCFAC12E0606C002E763D /* XCBuildMessageTextBookmark */;
+			184BCFB712E060B2002E763D /* PBXTextBookmark */ = 184BCFB712E060B2002E763D /* PBXTextBookmark */;
 		};
-		perUserProjectItems = {
-			181D9D4E12DDC4C6009D8043 /* PBXTextBookmark */ = 181D9D4E12DDC4C6009D8043 /* PBXTextBookmark */;
-			181D9DDB12DDC520009D8043 /* PBXTextBookmark */ = 181D9DDB12DDC520009D8043 /* PBXTextBookmark */;
-			181D9DE612DDC555009D8043 /* PBXTextBookmark */ = 181D9DE612DDC555009D8043 /* PBXTextBookmark */;
-			18DD6C6812DD9F85003335F5 = 18DD6C6812DD9F85003335F5 /* PBXTextBookmark */;
-			18DD6CA812DDA3B1003335F5 = 18DD6CA812DDA3B1003335F5 /* PBXTextBookmark */;
-			18F125DB12DD7AA80043A1E1 = 18F125DB12DD7AA80043A1E1 /* PBXTextBookmark */;
-			18F1260312DD7E350043A1E1 = 18F1260312DD7E350043A1E1 /* PlistBookmark */;
-			18F1261712DD80A90043A1E1 = 18F1261712DD80A90043A1E1 /* PBXTextBookmark */;
-			18F1266512DD88210043A1E1 = 18F1266512DD88210043A1E1 /* PBXTextBookmark */;
-			18FD201E12DDC265000DE9CC = 18FD201E12DDC265000DE9CC /* PBXTextBookmark */;
-			18FD204112DDC478000DE9CC = 18FD204112DDC478000DE9CC /* PlistBookmark */;
-			18FD204212DDC478000DE9CC = 18FD204212DDC478000DE9CC /* PBXTextBookmark */;
-			18FD204412DDC478000DE9CC = 18FD204412DDC478000DE9CC /* PBXTextBookmark */;
->>>>>>> f235fa75b139b611a1541b68dd888d68ec0b3616
-		};
-		sourceControlManager = 1883777012DAE18400F18AF2 /* Source Control */;
+		sourceControlManager = 184BCF9E12E05D9C002E763D /* Source Control */;
 		userBuildSettings = {
-		};
-	};
-	8D1107310486CEB800E47090 /* aBattery-Info.plist */ = {
-		uiCtxt = {
-<<<<<<< HEAD
-			sepNavWindowFrame = "{{26, 42}, {1250, 677}}";
-		};
-	};
-	AB323AEF0FB7AEFF00DB3FFB /* HistoryData.h */ = {
-		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {720, 624}}";
-			sepNavSelRange = "{0, 0}";
-			sepNavVisRange = "{0, 624}";
 		};
 	};
 	AB323AF00FB7AEFF00DB3FFB /* HistoryData.m */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {992, 3289}}";
-			sepNavSelRange = "{5365, 0}";
-			sepNavVisRange = "{6958, 575}";
-=======
-			sepNavWindowFrame = "{{726, 42}, {1250, 677}}";
->>>>>>> f235fa75b139b611a1541b68dd888d68ec0b3616
-		};
-	};
-	AB4424EB1054C75D00E2D7B1 /* UIDeviceHardware.m */ = {
-		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {720, 546}}";
-			sepNavSelRange = "{0, 0}";
-<<<<<<< HEAD
-			sepNavVisRange = "{253, 1094}";
-=======
-			sepNavVisRange = "{0, 921}";
->>>>>>> f235fa75b139b611a1541b68dd888d68ec0b3616
-			sepNavWindowFrame = "{{0, -1}, {1250, 677}}";
-		};
-	};
-	AB4425291054CC8A00E2D7B1 /* batteryTimes.plist */ = {
-		uiCtxt = {
-<<<<<<< HEAD
-			sepNavWindowFrame = "{{26, 0}, {1250, 677}}";
+			sepNavIntBoundsRect = "{{0, 0}, {992, 3250}}";
+			sepNavSelRange = "{5366, 1}";
+			sepNavVisRange = "{5120, 444}";
+			sepNavWindowFrame = "{{15, 96}, {1250, 677}}";
 		};
 	};
 	AB66E33E0FC2699C00092B6F /* SettingsViewController.h */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {720, 364}}";
+			sepNavIntBoundsRect = "{{0, 0}, {711, 386}}";
 			sepNavSelRange = "{0, 0}";
-			sepNavVisRange = "{0, 737}";
+			sepNavVisRange = "{0, 743}";
 		};
 	};
 	AB66E33F0FC2699C00092B6F /* SettingsViewController.m */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {2266, 2535}}";
-			sepNavSelRange = "{3639, 0}";
-			sepNavVisRange = "{2861, 2300}";
-			sepNavWindowFrame = "{{-1, -116}, {1250, 677}}";
-		};
-	};
-	AB9BB2E30FA8125A004AD35F /* FileSystem.h */ = {
-		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {720, 403}}";
-			sepNavSelRange = "{0, 0}";
-			sepNavVisRange = "{0, 663}";
-		};
-	};
-	AB9BB2E60FA81264004AD35F /* FileSystem.m */ = {
-		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {810, 1898}}";
-			sepNavSelRange = "{0, 0}";
-			sepNavVisRange = "{3116, 651}";
-=======
-			sepNavWindowFrame = "{{278, -30}, {1250, 677}}";
->>>>>>> f235fa75b139b611a1541b68dd888d68ec0b3616
-		};
-	};
-	AB9BB2EA0FA81277004AD35F /* Battery.h */ = {
-		uiCtxt = {
-<<<<<<< HEAD
-			sepNavIntBoundsRect = "{{0, 0}, {720, 663}}";
-			sepNavSelRange = "{1263, 0}";
-			sepNavVisRange = "{641, 679}";
-=======
-			sepNavIntBoundsRect = "{{0, 0}, {1191, 663}}";
-			sepNavSelRange = "{1263, 0}";
-			sepNavVisRange = "{132, 1189}";
->>>>>>> f235fa75b139b611a1541b68dd888d68ec0b3616
-			sepNavWindowFrame = "{{100, 32}, {1250, 677}}";
-		};
-	};
-	AB9BB2EB0FA81277004AD35F /* Battery.m */ = {
-		uiCtxt = {
-<<<<<<< HEAD
-			sepNavIntBoundsRect = "{{0, 0}, {999, 1664}}";
-			sepNavSelRange = "{494, 16}";
-			sepNavVisRange = "{2295, 769}";
-=======
-			sepNavIntBoundsRect = "{{0, 0}, {992, 1716}}";
-			sepNavSelRange = "{1007, 0}";
-			sepNavVisRange = "{712, 548}";
->>>>>>> f235fa75b139b611a1541b68dd888d68ec0b3616
-			sepNavWindowFrame = "{{65, 81}, {1250, 677}}";
-		};
-	};
-	ABA297FD10537FC00071E951 /* BatteryGraphViewController.h */ = {
-		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {957, 507}}";
-			sepNavSelRange = "{0, 0}";
-<<<<<<< HEAD
-			sepNavVisRange = "{0, 757}";
-=======
-			sepNavVisRange = "{0, 1122}";
->>>>>>> f235fa75b139b611a1541b68dd888d68ec0b3616
-		};
-	};
-	ABAA57411054472B003145AC /* BatteryGraphViewController.m */ = {
-		uiCtxt = {
-<<<<<<< HEAD
-			sepNavIntBoundsRect = "{{0, 0}, {1685, 7774}}";
-			sepNavSelRange = "{19648, 0}";
-			sepNavVisRange = "{19092, 1249}";
-			sepNavWindowFrame = "{{15, 96}, {1250, 677}}";
-		};
-	};
-	ABAEB33F0FB93FD900B96014 /* HistoryViewController.m */ = {
-		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {1034, 3757}}";
-			sepNavSelRange = "{0, 0}";
-			sepNavVisRange = "{4902, 718}";
-=======
-			sepNavIntBoundsRect = "{{0, 0}, {1048, 8242}}";
-			sepNavSelRange = "{0, 0}";
-			sepNavVisRange = "{0, 778}";
-			sepNavWindowFrame = "{{15, 96}, {1250, 677}}";
->>>>>>> f235fa75b139b611a1541b68dd888d68ec0b3616
+			sepNavIntBoundsRect = "{{0, 0}, {2266, 2418}}";
+			sepNavSelRange = "{7139, 0}";
+			sepNavVisRange = "{5976, 1252}";
 		};
 	};
 }
