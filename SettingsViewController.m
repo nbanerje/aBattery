@@ -108,20 +108,6 @@ Disable Sleep while Charging: When ON, Keeps your iPhone / iPod
 				 cell.accessoryView = [[[UISwitch alloc] initWithFrame:CGRectMake(0, 0, 0, 0)] autorelease];
 			     [(UISwitch*)cell.accessoryView addTarget:self action:@selector(switchToggled:event:) forControlEvents:UIControlEventValueChanged];
 			 }
-			 /*if(indexPath.row == 2) {
-				 UIButton *button = [UIButton buttonWithType:UIButtonTypeRoundedRect];
-				 CGRect frame = CGRectMake(0.0, 0.0, 100, 40);
-				 button.frame = frame;    // match the button's size with the image size
-				 [button setTitle:@"Clear" forState:UIControlStateNormal];
-				 //[button setBackgroundImage:image forState:UIControlStateNormal];
-				 
-				 // set the button's target to this table view controller so we can interpret touch events and map that to a NSIndexSet
-				 //[button addTarget:self action:@selector(checkButtonTapped:event:) forControlEvents:UIControlEventTouchUpInside];
-				 //button.backgroundColor = [UIColor clearColor];
-				 //cell.accessoryView = [UIButton buttonWithType: UIButtonTypeRoundedRect];
-			     [button addTarget:self action:@selector(buttonPressed:event:) forControlEvents:UIControlEventTouchUpInside ];
-			     cell.accessoryView = button;
-			 }*/
 		 }
 		 //Display Times
 		 if (indexPath.section == 0 && indexPath.row == 0) {
@@ -156,10 +142,6 @@ Disable Sleep while Charging: When ON, Keeps your iPhone / iPod
 			 }
 			 ((UISwitch*)cell.accessoryView).tag = indexPath.row;
 		 }
-		 /*else if (indexPath.section == 0 && indexPath.row == 2) {
-			 //cell.textLabel.text = @"Clear History";
-			 cell.textLabel.text = @"Clear History";
-		 }*/
 		 else {
 			 //assert;
 		 }
@@ -190,11 +172,6 @@ Disable Sleep while Charging: When ON, Keeps your iPhone / iPod
 			batteryHistory.maxEntries = 0;
 		}
 	}
-	/*NSEnumerator *key = [settingsDictionary keyEnumerator];
-	NSString *keyStr;
-	while( keyStr = [key nextObject]) {
-		NSLog(keyStr);
-	}*/
 }
 
 //////
@@ -208,14 +185,8 @@ Disable Sleep while Charging: When ON, Keeps your iPhone / iPod
 }
 
 
-- (void)applicationWillTerminate:(UIApplication *)application {
-	//[self saveUserDefaults];
-	//[[NSUserDefaults standardUserDefaults] registerDefaults:mainViewController.userDefaults];
-	//[[NSUserDefaults standardUserDefaults] synchronize]; 
-}
-
 - (void)dealloc {
-	[switchKeys        release];
+	//[switchKeys        release];
 	[super             dealloc];
 }
 

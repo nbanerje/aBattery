@@ -1,7 +1,7 @@
 TaBattery
 v7
 r0
-t316523847.948276
+t316691908.462033
 cCheck dependencies
 cCpResource build/Distribution-iphoneos/aBattery.app/ResourceRules.plist "/Volumes/Mac OS Extended/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist"
 cProcessInfoPlistFile "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/Distribution-iphoneos/aBattery.app/Info.plist" aBattery-Info.plist
@@ -34,9 +34,9 @@ cCompileC build/aBattery.build/Distribution-iphoneos/aBattery.build/Objects-norm
 cCompileC build/aBattery.build/Distribution-iphoneos/aBattery.build/Objects-normal/armv6/SettingsViewController.o "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/SettingsViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
 cCompileC build/aBattery.build/Distribution-iphoneos/aBattery.build/Objects-normal/armv6/BatteryGraphViewController.o "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/BatteryGraphViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
 cCompileC build/aBattery.build/Distribution-iphoneos/aBattery.build/Objects-normal/armv6/UIDeviceHardware.o "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/UIDeviceHardware.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
-cLd "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/Objects-normal/armv6/aBattery" normal armv6
 cCompileC build/aBattery.build/Distribution-iphoneos/aBattery.build/Objects-normal/armv7/main.o "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/main.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
 cCompileC build/aBattery.build/Distribution-iphoneos/aBattery.build/Objects-normal/armv7/aBatteryAppDelegate.o "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/Classes/aBatteryAppDelegate.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+cLd "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/Objects-normal/armv6/aBattery" normal armv6
 cCompileC build/aBattery.build/Distribution-iphoneos/aBattery.build/Objects-normal/armv7/MainView.o "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/Classes/MainView.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
 cCompileC build/aBattery.build/Distribution-iphoneos/aBattery.build/Objects-normal/armv7/MainViewController.o "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/Classes/MainViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
 cCompileC build/aBattery.build/Distribution-iphoneos/aBattery.build/Objects-normal/armv7/FileSystem.o "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/Classes/FileSystem.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
@@ -126,9 +126,9 @@ t1282890734
 s3767
 
 N/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/Classes/HistoryData.m
-c000000004D1EF0E80000000000001BAF
-t1293873384
-s7087
+c000000004D30069B0000000000001D72
+t1294993051
+s7538
 
 N/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/Classes/HistoryViewController.m
 c000000004C775BEE0000000000002283
@@ -141,9 +141,9 @@ t1282890734
 s427
 
 N/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/Classes/MainViewController.m
-c000000004D2D45AC00000000000095F3
-t1294812588
-s38387
+c000000004D301CF200000000000080A0
+t1294998770
+s32928
 
 N/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/Classes/SaveData.m
 c000000004C775BEE0000000000000B80
@@ -151,9 +151,9 @@ t1282890734
 s2944
 
 N/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/Classes/aBatteryAppDelegate.m
-c000000004C775BEE0000000000000AD1
-t1282890734
-s2769
+c000000004D3016BB0000000000000BFF
+t1294997179
+s3071
 
 N/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/Default.png
 c000000004C775BEE00000000000042CF
@@ -181,9 +181,9 @@ t1282890734
 s8360
 
 N/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/SettingsViewController.m
-c000000004C775BEE00000000000021EB
-t1282890734
-s8683
+c000000004D3005520000000000001C3C
+t1294992722
+s7228
 
 N/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/UIDeviceHardware.m
 c000000004D2D491C0000000000000543
@@ -231,11 +231,11 @@ t1282890734
 s686
 
 N/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/Distribution-iphoneos/aBattery.app
-t1294831014
+t1294999108
 s816
 
 N/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/Distribution-iphoneos/aBattery.app.dSYM
-t1294831014
+t1294999107
 s102
 
 N/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/Distribution-iphoneos/aBattery.app/BatteryGraphViewController.nib
@@ -255,7 +255,7 @@ t1294830640
 s1420
 
 N/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/Distribution-iphoneos/aBattery.app/Info.plist
-t1294830640
+t1294999103
 s785
 
 N/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/Distribution-iphoneos/aBattery.app/MainView.nib
@@ -267,7 +267,7 @@ t1294830642
 s1124
 
 N/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/Distribution-iphoneos/aBattery.app/PkgInfo
-t1294830640
+t1294999103
 s8
 
 N/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/Distribution-iphoneos/aBattery.app/ResourceRules.plist
@@ -275,8 +275,8 @@ t1294830640
 s485
 
 N/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/Distribution-iphoneos/aBattery.app/aBattery
-t1294831013
-s746560
+t1294999107
+s747408
 
 N/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/Distribution-iphoneos/aBattery.app/battery green fill2.png
 t1294830642
@@ -340,8 +340,8 @@ t1294831007
 s17236
 
 N/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/Objects-normal/armv6/HistoryData.o
-t1294831008
-s29188
+t1294999104
+s29972
 
 N/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/Objects-normal/armv6/HistoryViewController.o
 t1294831009
@@ -352,24 +352,24 @@ t1294831007
 s37640
 
 N/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/Objects-normal/armv6/MainViewController.o
-t1294831009
-s122408
+t1294999105
+s118268
 
 N/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/Objects-normal/armv6/SaveData.o
 t1294831008
 s14196
 
 N/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/Objects-normal/armv6/SettingsViewController.o
-t1294831009
-s59828
+t1294999105
+s59424
 
 N/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/Objects-normal/armv6/UIDeviceHardware.o
 t1294831009
 s10792
 
 N/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/Objects-normal/armv6/aBattery
-t1294831010
-s362244
+t1294999105
+s363088
 
 N/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/Objects-normal/armv6/aBattery.LinkFileList
 c000000004D2D8C300000000000000722
@@ -377,8 +377,8 @@ t1294830640
 s1826
 
 N/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/Objects-normal/armv6/aBatteryAppDelegate.o
-t1294831007
-s62228
+t1294999104
+s66980
 
 N/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/Objects-normal/armv6/main.o
 t1294831007
@@ -397,8 +397,8 @@ t1294831011
 s16880
 
 N/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/Objects-normal/armv7/HistoryData.o
-t1294831011
-s28652
+t1294999106
+s29420
 
 N/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/Objects-normal/armv7/HistoryViewController.o
 t1294831012
@@ -409,24 +409,24 @@ t1294831010
 s37656
 
 N/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/Objects-normal/armv7/MainViewController.o
-t1294831011
-s120552
+t1294999107
+s116752
 
 N/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/Objects-normal/armv7/SaveData.o
 t1294831012
 s14328
 
 N/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/Objects-normal/armv7/SettingsViewController.o
-t1294831012
-s59876
+t1294999107
+s59472
 
 N/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/Objects-normal/armv7/UIDeviceHardware.o
 t1294831012
 s10792
 
 N/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/Objects-normal/armv7/aBattery
-t1294831013
-s362144
+t1294999107
+s362988
 
 N/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/Objects-normal/armv7/aBattery.LinkFileList
 c000000004D2D8C300000000000000722
@@ -434,111 +434,111 @@ t1294830640
 s1826
 
 N/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/Objects-normal/armv7/aBatteryAppDelegate.o
-t1294831010
-s62240
+t1294999106
+s67012
 
 N/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/Objects-normal/armv7/main.o
 t1294831009
 s6620
 
 N/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/StaticAnalyzer/normal/armv6/Battery.plist
-t1294828778
-s276
+t2
+s0
 
 N/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/StaticAnalyzer/normal/armv6/BatteryGraphViewController.plist
-t1294828778
-s17876
+t2
+s0
 
 N/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/StaticAnalyzer/normal/armv6/FileSystem.plist
-t1294828778
-s276
+t2
+s0
 
 N/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/StaticAnalyzer/normal/armv6/HistoryData.plist
-t1294828778
-s276
+t2
+s0
 
 N/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/StaticAnalyzer/normal/armv6/HistoryViewController.plist
-t1294828778
-s276
+t2
+s0
 
 N/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/StaticAnalyzer/normal/armv6/MainView.plist
-t1294828777
-s276
+t2
+s0
 
 N/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/StaticAnalyzer/normal/armv6/MainViewController.plist
-t1294828778
-s4772
+t2
+s0
 
 N/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/StaticAnalyzer/normal/armv6/SaveData.plist
-t1294828778
-s276
+t2
+s0
 
 N/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/StaticAnalyzer/normal/armv6/SettingsViewController.plist
-t1294828778
-s276
+t2
+s0
 
 N/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/StaticAnalyzer/normal/armv6/UIDeviceHardware.plist
-t1294828779
-s276
+t2
+s0
 
 N/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/StaticAnalyzer/normal/armv6/aBatteryAppDelegate.plist
-t1294828777
-s276
+t2
+s0
 
 N/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/StaticAnalyzer/normal/armv6/main.plist
-t1294828777
-s276
+t2
+s0
 
 N/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/StaticAnalyzer/normal/armv7/Battery.plist
-t1294828780
-s276
+t2
+s0
 
 N/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/StaticAnalyzer/normal/armv7/BatteryGraphViewController.plist
-t1294828781
-s17876
+t2
+s0
 
 N/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/StaticAnalyzer/normal/armv7/FileSystem.plist
-t1294828780
-s276
+t2
+s0
 
 N/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/StaticAnalyzer/normal/armv7/HistoryData.plist
-t1294828780
-s276
+t2
+s0
 
 N/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/StaticAnalyzer/normal/armv7/HistoryViewController.plist
-t1294828780
-s276
+t2
+s0
 
 N/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/StaticAnalyzer/normal/armv7/MainView.plist
-t1294828780
-s276
+t2
+s0
 
 N/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/StaticAnalyzer/normal/armv7/MainViewController.plist
-t1294828780
-s4772
+t2
+s0
 
 N/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/StaticAnalyzer/normal/armv7/SaveData.plist
-t1294828780
-s276
+t2
+s0
 
 N/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/StaticAnalyzer/normal/armv7/SettingsViewController.plist
-t1294828780
-s276
+t2
+s0
 
 N/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/StaticAnalyzer/normal/armv7/UIDeviceHardware.plist
-t1294828780
-s276
+t2
+s0
 
 N/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/StaticAnalyzer/normal/armv7/aBatteryAppDelegate.plist
-t1294828780
-s276
+t2
+s0
 
 N/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/StaticAnalyzer/normal/armv7/main.plist
-t1294828779
-s276
+t2
+s0
 
 N/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/aBattery.xcent
-t1294830658
+t1294999108
 s423
 
 N/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/core-plot/framework/build/Release-iphoneos/libCorePlot-CocoaTouch.a
@@ -596,6 +596,10 @@ N/var/folders/7X/7XJQQGH0GLSFuXeMESafVE+++TI/-Caches-/com.apple.Xcode.501/Shared
 t1294828769
 s2767260
 
+N/var/folders/7X/7XJQQGH0GLSFuXeMESafVE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/aBattery_Prefix-bjjdfkqilxrqmfhghuxxbhxtishc/aBattery_Prefix.pch.pth
+t2
+s0
+
 N/var/folders/7X/7XJQQGH0GLSFuXeMESafVE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/aBattery_Prefix-bmztawjtovetbmbodwwmwagvmifw/aBattery_Prefix.pch.pth
 t2
 s0
@@ -605,6 +609,10 @@ t2
 s0
 
 N/var/folders/7X/7XJQQGH0GLSFuXeMESafVE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/aBattery_Prefix-bvwihptlsbgticgfoclgxxxkwcsk/aBattery_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/7X/7XJQQGH0GLSFuXeMESafVE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/aBattery_Prefix-dqrsenlrfticsufgewmgsdlckwho/aBattery_Prefix.pch.pth
 t2
 s0
 
@@ -649,8 +657,8 @@ t1294830650
 s10254040
 
 NaBattery-Info.plist
-c000000004D2D86F70000000000000374
-t1294829303
+c000000004D301CF20000000000000374
+t1294998770
 s884
 
 CAnalyze "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/BatteryGraphViewController.m"
@@ -765,15 +773,15 @@ lSLF07#2@70"Analyze /Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/main
 
 CCheck dependencies
 r0
-lSLF07#2@18"Check dependencies316523847#316523847#0(0"0(0#1#0"8599573504#0"0#
+lSLF07#2@18"Check dependencies316691903#316691903#0(0"0(0#1#0"8630697184#0"0#
 
 CCodeSign "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/Distribution-iphoneos/aBattery.app"
-s316523814.292687
-e316523814.766604
+s316691908.024801
+e316691908.461983
 r1
 xCodeSign
 x/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/Distribution-iphoneos/aBattery.app
-lSLF07#2@49"CodeSign build/Distribution-iphoneos/aBattery.app316523814#316523814#0(0"0(0#0#96"/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/Distribution-iphoneos/aBattery.app8602777216#815"    cd "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery"    setenv PATH "/Volumes/Mac OS Extended/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Volumes/Mac OS Extended/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv _CODESIGN_ALLOCATE_ "/Volumes/Mac OS Extended/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/codesign_allocate"    /usr/bin/codesign -f -s "iPhone Distribution: Om Design LLC" "--resource-rules=/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/Distribution-iphoneos/aBattery.app/ResourceRules.plist" --entitlements "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/aBattery.xcent" "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/Distribution-iphoneos/aBattery.app"0#
+lSLF07#2@49"CodeSign build/Distribution-iphoneos/aBattery.app316691908#316691908#0(0"0(0#0#96"/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/Distribution-iphoneos/aBattery.app8631429312#815"    cd "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery"    setenv PATH "/Volumes/Mac OS Extended/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Volumes/Mac OS Extended/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv _CODESIGN_ALLOCATE_ "/Volumes/Mac OS Extended/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/codesign_allocate"    /usr/bin/codesign -f -s "iPhone Distribution: Om Design LLC" "--resource-rules=/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/Distribution-iphoneos/aBattery.app/ResourceRules.plist" --entitlements "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/aBattery.xcent" "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/Distribution-iphoneos/aBattery.app"0#
 
 CCompileC build/aBattery.build/Distribution-iphoneos/aBattery.build/Objects-normal/armv6/Battery.o "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/Classes/Battery.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
 s316523807.820427
@@ -815,8 +823,8 @@ xcom.apple.compilers.gcc.4_2
 lSLF07#2@84"Compile /Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/Classes/FileSystem.m316523807#316523807#0(0"0(0#0#76"/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/Classes/FileSystem.m8605120736#2436"    cd "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery"    setenv LANG en_US.US-ASCII    setenv PATH "/Volumes/Mac OS Extended/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Volumes/Mac OS Extended/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Volumes/Mac OS Extended/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2" -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot "/Volumes/Mac OS Extended/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk" -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/aBattery-generated-files.hmap" "-I/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/aBattery-own-target-headers.hmap" "-I/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/aBattery-all-target-headers.hmap" -iquote "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/aBattery-project-headers.hmap" "-F/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/Distribution-iphoneos" -Fcore-plot/framework -Fcore-plot/framework/iPhoneOnly -Fcore-plot/framework/MacOnly -Fcore-plot/framework/Source -Fcore-plot/framework/TestResources "-I/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/Distribution-iphoneos/include" -Icore-plot/framework -Icore-plot/framework/iPhoneOnly -Icore-plot/framework/MacOnly -Icore-plot/framework/Source -Icore-plot/framework/TestResources "-I/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/DerivedSources/armv6" "-I/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/DerivedSources" -include /var/folders/7X/7XJQQGH0GLSFuXeMESafVE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/aBattery_Prefix-afcyxtblleirxlelefhlhpufhvyl/aBattery_Prefix.pch -c "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/Classes/FileSystem.m" -o "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/Objects-normal/armv6/FileSystem.o"0#
 
 CCompileC build/aBattery.build/Distribution-iphoneos/aBattery.build/Objects-normal/armv6/HistoryData.o "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/Classes/HistoryData.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
-s316523808.131057
-e316523808.728786
+s316691904.560754
+e316691904.945762
 r1
 xCompileC
 xbuild/aBattery.build/Distribution-iphoneos/aBattery.build/Objects-normal/armv6/HistoryData.o
@@ -825,7 +833,7 @@ xnormal
 xarmv6
 xobjective-c
 xcom.apple.compilers.gcc.4_2
-lSLF07#2@85"Compile /Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/Classes/HistoryData.m316523808#316523808#0(0"0(0#0#77"/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/Classes/HistoryData.m8608091840#2438"    cd "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery"    setenv LANG en_US.US-ASCII    setenv PATH "/Volumes/Mac OS Extended/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Volumes/Mac OS Extended/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Volumes/Mac OS Extended/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2" -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot "/Volumes/Mac OS Extended/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk" -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/aBattery-generated-files.hmap" "-I/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/aBattery-own-target-headers.hmap" "-I/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/aBattery-all-target-headers.hmap" -iquote "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/aBattery-project-headers.hmap" "-F/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/Distribution-iphoneos" -Fcore-plot/framework -Fcore-plot/framework/iPhoneOnly -Fcore-plot/framework/MacOnly -Fcore-plot/framework/Source -Fcore-plot/framework/TestResources "-I/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/Distribution-iphoneos/include" -Icore-plot/framework -Icore-plot/framework/iPhoneOnly -Icore-plot/framework/MacOnly -Icore-plot/framework/Source -Icore-plot/framework/TestResources "-I/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/DerivedSources/armv6" "-I/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/DerivedSources" -include /var/folders/7X/7XJQQGH0GLSFuXeMESafVE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/aBattery_Prefix-afcyxtblleirxlelefhlhpufhvyl/aBattery_Prefix.pch -c "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/Classes/HistoryData.m" -o "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/Objects-normal/armv6/HistoryData.o"0#
+lSLF07#2@85"Compile /Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/Classes/HistoryData.m316691904#316691904#0(0"0(0#0#77"/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/Classes/HistoryData.m8627630496#2438"    cd "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery"    setenv LANG en_US.US-ASCII    setenv PATH "/Volumes/Mac OS Extended/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Volumes/Mac OS Extended/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Volumes/Mac OS Extended/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2" -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot "/Volumes/Mac OS Extended/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk" -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/aBattery-generated-files.hmap" "-I/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/aBattery-own-target-headers.hmap" "-I/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/aBattery-all-target-headers.hmap" -iquote "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/aBattery-project-headers.hmap" "-F/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/Distribution-iphoneos" -Fcore-plot/framework -Fcore-plot/framework/iPhoneOnly -Fcore-plot/framework/MacOnly -Fcore-plot/framework/Source -Fcore-plot/framework/TestResources "-I/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/Distribution-iphoneos/include" -Icore-plot/framework -Icore-plot/framework/iPhoneOnly -Icore-plot/framework/MacOnly -Icore-plot/framework/Source -Icore-plot/framework/TestResources "-I/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/DerivedSources/armv6" "-I/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/DerivedSources" -include /var/folders/7X/7XJQQGH0GLSFuXeMESafVE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/aBattery_Prefix-afcyxtblleirxlelefhlhpufhvyl/aBattery_Prefix.pch -c "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/Classes/HistoryData.m" -o "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/Objects-normal/armv6/HistoryData.o"0#
 
 CCompileC build/aBattery.build/Distribution-iphoneos/aBattery.build/Objects-normal/armv6/HistoryViewController.o "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/Classes/HistoryViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
 s316523808.883890
@@ -854,8 +862,8 @@ xcom.apple.compilers.gcc.4_2
 lSLF07#2@82"Compile /Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/Classes/MainView.m316523807#316523807#0(0"0(0#0#74"/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/Classes/MainView.m8607910752#2432"    cd "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery"    setenv LANG en_US.US-ASCII    setenv PATH "/Volumes/Mac OS Extended/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Volumes/Mac OS Extended/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Volumes/Mac OS Extended/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2" -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot "/Volumes/Mac OS Extended/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk" -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/aBattery-generated-files.hmap" "-I/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/aBattery-own-target-headers.hmap" "-I/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/aBattery-all-target-headers.hmap" -iquote "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/aBattery-project-headers.hmap" "-F/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/Distribution-iphoneos" -Fcore-plot/framework -Fcore-plot/framework/iPhoneOnly -Fcore-plot/framework/MacOnly -Fcore-plot/framework/Source -Fcore-plot/framework/TestResources "-I/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/Distribution-iphoneos/include" -Icore-plot/framework -Icore-plot/framework/iPhoneOnly -Icore-plot/framework/MacOnly -Icore-plot/framework/Source -Icore-plot/framework/TestResources "-I/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/DerivedSources/armv6" "-I/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/DerivedSources" -include /var/folders/7X/7XJQQGH0GLSFuXeMESafVE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/aBattery_Prefix-afcyxtblleirxlelefhlhpufhvyl/aBattery_Prefix.pch -c "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/Classes/MainView.m" -o "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/Objects-normal/armv6/MainView.o"0#
 
 CCompileC build/aBattery.build/Distribution-iphoneos/aBattery.build/Objects-normal/armv6/MainViewController.o "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/Classes/MainViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
-s316523807.295170
-e316523809.146135
+s316691903.788063
+e316691905.751332
 r1
 xCompileC
 xbuild/aBattery.build/Distribution-iphoneos/aBattery.build/Objects-normal/armv6/MainViewController.o
@@ -864,7 +872,7 @@ xnormal
 xarmv6
 xobjective-c
 xcom.apple.compilers.gcc.4_2
-lSLF07#2@92"Compile /Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/Classes/MainViewController.m316523807#316523809#0(0"0(0#0#84"/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/Classes/MainViewController.m8605953536#2452"    cd "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery"    setenv LANG en_US.US-ASCII    setenv PATH "/Volumes/Mac OS Extended/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Volumes/Mac OS Extended/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Volumes/Mac OS Extended/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2" -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot "/Volumes/Mac OS Extended/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk" -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/aBattery-generated-files.hmap" "-I/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/aBattery-own-target-headers.hmap" "-I/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/aBattery-all-target-headers.hmap" -iquote "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/aBattery-project-headers.hmap" "-F/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/Distribution-iphoneos" -Fcore-plot/framework -Fcore-plot/framework/iPhoneOnly -Fcore-plot/framework/MacOnly -Fcore-plot/framework/Source -Fcore-plot/framework/TestResources "-I/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/Distribution-iphoneos/include" -Icore-plot/framework -Icore-plot/framework/iPhoneOnly -Icore-plot/framework/MacOnly -Icore-plot/framework/Source -Icore-plot/framework/TestResources "-I/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/DerivedSources/armv6" "-I/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/DerivedSources" -include /var/folders/7X/7XJQQGH0GLSFuXeMESafVE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/aBattery_Prefix-afcyxtblleirxlelefhlhpufhvyl/aBattery_Prefix.pch -c "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/Classes/MainViewController.m" -o "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/Objects-normal/armv6/MainViewController.o"0#
+lSLF07#2@92"Compile /Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/Classes/MainViewController.m316691903#316691905#0(0"0(0#0#84"/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/Classes/MainViewController.m8622112224#2452"    cd "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery"    setenv LANG en_US.US-ASCII    setenv PATH "/Volumes/Mac OS Extended/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Volumes/Mac OS Extended/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Volumes/Mac OS Extended/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2" -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot "/Volumes/Mac OS Extended/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk" -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/aBattery-generated-files.hmap" "-I/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/aBattery-own-target-headers.hmap" "-I/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/aBattery-all-target-headers.hmap" -iquote "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/aBattery-project-headers.hmap" "-F/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/Distribution-iphoneos" -Fcore-plot/framework -Fcore-plot/framework/iPhoneOnly -Fcore-plot/framework/MacOnly -Fcore-plot/framework/Source -Fcore-plot/framework/TestResources "-I/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/Distribution-iphoneos/include" -Icore-plot/framework -Icore-plot/framework/iPhoneOnly -Icore-plot/framework/MacOnly -Icore-plot/framework/Source -Icore-plot/framework/TestResources "-I/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/DerivedSources/armv6" "-I/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/DerivedSources" -include /var/folders/7X/7XJQQGH0GLSFuXeMESafVE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/aBattery_Prefix-afcyxtblleirxlelefhlhpufhvyl/aBattery_Prefix.pch -c "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/Classes/MainViewController.m" -o "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/Objects-normal/armv6/MainViewController.o"0#
 
 CCompileC build/aBattery.build/Distribution-iphoneos/aBattery.build/Objects-normal/armv6/SaveData.o "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/Classes/SaveData.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
 s316523808.728979
@@ -880,8 +888,8 @@ xcom.apple.compilers.gcc.4_2
 lSLF07#2@82"Compile /Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/Classes/SaveData.m316523808#316523808#0(0"0(0#0#74"/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/Classes/SaveData.m8610376992#2432"    cd "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery"    setenv LANG en_US.US-ASCII    setenv PATH "/Volumes/Mac OS Extended/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Volumes/Mac OS Extended/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Volumes/Mac OS Extended/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2" -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot "/Volumes/Mac OS Extended/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk" -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/aBattery-generated-files.hmap" "-I/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/aBattery-own-target-headers.hmap" "-I/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/aBattery-all-target-headers.hmap" -iquote "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/aBattery-project-headers.hmap" "-F/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/Distribution-iphoneos" -Fcore-plot/framework -Fcore-plot/framework/iPhoneOnly -Fcore-plot/framework/MacOnly -Fcore-plot/framework/Source -Fcore-plot/framework/TestResources "-I/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/Distribution-iphoneos/include" -Icore-plot/framework -Icore-plot/framework/iPhoneOnly -Icore-plot/framework/MacOnly -Icore-plot/framework/Source -Icore-plot/framework/TestResources "-I/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/DerivedSources/armv6" "-I/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/DerivedSources" -include /var/folders/7X/7XJQQGH0GLSFuXeMESafVE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/aBattery_Prefix-afcyxtblleirxlelefhlhpufhvyl/aBattery_Prefix.pch -c "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/Classes/SaveData.m" -o "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/Objects-normal/armv6/SaveData.o"0#
 
 CCompileC build/aBattery.build/Distribution-iphoneos/aBattery.build/Objects-normal/armv6/SettingsViewController.o "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/SettingsViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
-s316523809.146262
-e316523809.536682
+s316691904.946175
+e316691905.305579
 r1
 xCompileC
 xbuild/aBattery.build/Distribution-iphoneos/aBattery.build/Objects-normal/armv6/SettingsViewController.o
@@ -890,7 +898,7 @@ xnormal
 xarmv6
 xobjective-c
 xcom.apple.compilers.gcc.4_2
-lSLF07#2@88"Compile /Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/SettingsViewController.m316523809#316523809#0(0"0(0#0#80"/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/SettingsViewController.m8608274336#2452"    cd "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery"    setenv LANG en_US.US-ASCII    setenv PATH "/Volumes/Mac OS Extended/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Volumes/Mac OS Extended/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Volumes/Mac OS Extended/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2" -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot "/Volumes/Mac OS Extended/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk" -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/aBattery-generated-files.hmap" "-I/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/aBattery-own-target-headers.hmap" "-I/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/aBattery-all-target-headers.hmap" -iquote "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/aBattery-project-headers.hmap" "-F/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/Distribution-iphoneos" -Fcore-plot/framework -Fcore-plot/framework/iPhoneOnly -Fcore-plot/framework/MacOnly -Fcore-plot/framework/Source -Fcore-plot/framework/TestResources "-I/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/Distribution-iphoneos/include" -Icore-plot/framework -Icore-plot/framework/iPhoneOnly -Icore-plot/framework/MacOnly -Icore-plot/framework/Source -Icore-plot/framework/TestResources "-I/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/DerivedSources/armv6" "-I/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/DerivedSources" -include /var/folders/7X/7XJQQGH0GLSFuXeMESafVE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/aBattery_Prefix-afcyxtblleirxlelefhlhpufhvyl/aBattery_Prefix.pch -c "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/SettingsViewController.m" -o "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/Objects-normal/armv6/SettingsViewController.o"0#
+lSLF07#2@88"Compile /Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/SettingsViewController.m316691904#316691905#0(0"0(0#0#80"/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/SettingsViewController.m8624315456#2452"    cd "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery"    setenv LANG en_US.US-ASCII    setenv PATH "/Volumes/Mac OS Extended/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Volumes/Mac OS Extended/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Volumes/Mac OS Extended/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2" -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot "/Volumes/Mac OS Extended/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk" -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/aBattery-generated-files.hmap" "-I/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/aBattery-own-target-headers.hmap" "-I/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/aBattery-all-target-headers.hmap" -iquote "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/aBattery-project-headers.hmap" "-F/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/Distribution-iphoneos" -Fcore-plot/framework -Fcore-plot/framework/iPhoneOnly -Fcore-plot/framework/MacOnly -Fcore-plot/framework/Source -Fcore-plot/framework/TestResources "-I/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/Distribution-iphoneos/include" -Icore-plot/framework -Icore-plot/framework/iPhoneOnly -Icore-plot/framework/MacOnly -Icore-plot/framework/Source -Icore-plot/framework/TestResources "-I/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/DerivedSources/armv6" "-I/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/DerivedSources" -include /var/folders/7X/7XJQQGH0GLSFuXeMESafVE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/aBattery_Prefix-afcyxtblleirxlelefhlhpufhvyl/aBattery_Prefix.pch -c "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/SettingsViewController.m" -o "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/Objects-normal/armv6/SettingsViewController.o"0#
 
 CCompileC build/aBattery.build/Distribution-iphoneos/aBattery.build/Objects-normal/armv6/UIDeviceHardware.o "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/UIDeviceHardware.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
 s316523809.536847
@@ -906,8 +914,8 @@ xcom.apple.compilers.gcc.4_2
 lSLF07#2@82"Compile /Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/UIDeviceHardware.m316523809#316523809#0(0"0(0#0#74"/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/UIDeviceHardware.m8608022112#2440"    cd "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery"    setenv LANG en_US.US-ASCII    setenv PATH "/Volumes/Mac OS Extended/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Volumes/Mac OS Extended/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Volumes/Mac OS Extended/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2" -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot "/Volumes/Mac OS Extended/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk" -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/aBattery-generated-files.hmap" "-I/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/aBattery-own-target-headers.hmap" "-I/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/aBattery-all-target-headers.hmap" -iquote "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/aBattery-project-headers.hmap" "-F/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/Distribution-iphoneos" -Fcore-plot/framework -Fcore-plot/framework/iPhoneOnly -Fcore-plot/framework/MacOnly -Fcore-plot/framework/Source -Fcore-plot/framework/TestResources "-I/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/Distribution-iphoneos/include" -Icore-plot/framework -Icore-plot/framework/iPhoneOnly -Icore-plot/framework/MacOnly -Icore-plot/framework/Source -Icore-plot/framework/TestResources "-I/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/DerivedSources/armv6" "-I/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/DerivedSources" -include /var/folders/7X/7XJQQGH0GLSFuXeMESafVE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/aBattery_Prefix-afcyxtblleirxlelefhlhpufhvyl/aBattery_Prefix.pch -c "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/UIDeviceHardware.m" -o "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/Objects-normal/armv6/UIDeviceHardware.o"0#
 
 CCompileC build/aBattery.build/Distribution-iphoneos/aBattery.build/Objects-normal/armv6/aBatteryAppDelegate.o "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/Classes/aBatteryAppDelegate.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
-s316523807.080831
-e316523807.371327
+s316691903.786073
+e316691904.560354
 r1
 xCompileC
 xbuild/aBattery.build/Distribution-iphoneos/aBattery.build/Objects-normal/armv6/aBatteryAppDelegate.o
@@ -916,7 +924,7 @@ xnormal
 xarmv6
 xobjective-c
 xcom.apple.compilers.gcc.4_2
-lSLF07#2@93"Compile /Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/Classes/aBatteryAppDelegate.m316523807#316523807#0(0"0(0#0#85"/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/Classes/aBatteryAppDelegate.m8609569184#2454"    cd "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery"    setenv LANG en_US.US-ASCII    setenv PATH "/Volumes/Mac OS Extended/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Volumes/Mac OS Extended/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Volumes/Mac OS Extended/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2" -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot "/Volumes/Mac OS Extended/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk" -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/aBattery-generated-files.hmap" "-I/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/aBattery-own-target-headers.hmap" "-I/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/aBattery-all-target-headers.hmap" -iquote "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/aBattery-project-headers.hmap" "-F/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/Distribution-iphoneos" -Fcore-plot/framework -Fcore-plot/framework/iPhoneOnly -Fcore-plot/framework/MacOnly -Fcore-plot/framework/Source -Fcore-plot/framework/TestResources "-I/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/Distribution-iphoneos/include" -Icore-plot/framework -Icore-plot/framework/iPhoneOnly -Icore-plot/framework/MacOnly -Icore-plot/framework/Source -Icore-plot/framework/TestResources "-I/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/DerivedSources/armv6" "-I/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/DerivedSources" -include /var/folders/7X/7XJQQGH0GLSFuXeMESafVE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/aBattery_Prefix-afcyxtblleirxlelefhlhpufhvyl/aBattery_Prefix.pch -c "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/Classes/aBatteryAppDelegate.m" -o "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/Objects-normal/armv6/aBatteryAppDelegate.o"0#
+lSLF07#2@93"Compile /Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/Classes/aBatteryAppDelegate.m316691903#316691904#0(0"0(0#0#85"/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/Classes/aBatteryAppDelegate.m8624132896#2454"    cd "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery"    setenv LANG en_US.US-ASCII    setenv PATH "/Volumes/Mac OS Extended/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Volumes/Mac OS Extended/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Volumes/Mac OS Extended/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2" -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot "/Volumes/Mac OS Extended/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk" -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/aBattery-generated-files.hmap" "-I/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/aBattery-own-target-headers.hmap" "-I/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/aBattery-all-target-headers.hmap" -iquote "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/aBattery-project-headers.hmap" "-F/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/Distribution-iphoneos" -Fcore-plot/framework -Fcore-plot/framework/iPhoneOnly -Fcore-plot/framework/MacOnly -Fcore-plot/framework/Source -Fcore-plot/framework/TestResources "-I/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/Distribution-iphoneos/include" -Icore-plot/framework -Icore-plot/framework/iPhoneOnly -Icore-plot/framework/MacOnly -Icore-plot/framework/Source -Icore-plot/framework/TestResources "-I/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/DerivedSources/armv6" "-I/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/DerivedSources" -include /var/folders/7X/7XJQQGH0GLSFuXeMESafVE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/aBattery_Prefix-afcyxtblleirxlelefhlhpufhvyl/aBattery_Prefix.pch -c "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/Classes/aBatteryAppDelegate.m" -o "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/Objects-normal/armv6/aBatteryAppDelegate.o"0#
 
 CCompileC build/aBattery.build/Distribution-iphoneos/aBattery.build/Objects-normal/armv6/main.o "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/main.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
 s316523807.078326
@@ -971,8 +979,8 @@ xcom.apple.compilers.gcc.4_2
 lSLF07#2@84"Compile /Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/Classes/FileSystem.m316523810#316523811#0(0"0(0#0#76"/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/Classes/FileSystem.m8608076864#2436"    cd "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery"    setenv LANG en_US.US-ASCII    setenv PATH "/Volumes/Mac OS Extended/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Volumes/Mac OS Extended/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Volumes/Mac OS Extended/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2" -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot "/Volumes/Mac OS Extended/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk" -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/aBattery-generated-files.hmap" "-I/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/aBattery-own-target-headers.hmap" "-I/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/aBattery-all-target-headers.hmap" -iquote "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/aBattery-project-headers.hmap" "-F/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/Distribution-iphoneos" -Fcore-plot/framework -Fcore-plot/framework/iPhoneOnly -Fcore-plot/framework/MacOnly -Fcore-plot/framework/Source -Fcore-plot/framework/TestResources "-I/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/Distribution-iphoneos/include" -Icore-plot/framework -Icore-plot/framework/iPhoneOnly -Icore-plot/framework/MacOnly -Icore-plot/framework/Source -Icore-plot/framework/TestResources "-I/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/DerivedSources/armv7" "-I/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/DerivedSources" -include /var/folders/7X/7XJQQGH0GLSFuXeMESafVE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/aBattery_Prefix-gigykltieegawieadvaigdqsmgjm/aBattery_Prefix.pch -c "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/Classes/FileSystem.m" -o "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/Objects-normal/armv7/FileSystem.o"0#
 
 CCompileC build/aBattery.build/Distribution-iphoneos/aBattery.build/Objects-normal/armv7/HistoryData.o "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/Classes/HistoryData.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
-s316523811.483845
-e316523811.999910
+s316691906.289701
+e316691906.670213
 r1
 xCompileC
 xbuild/aBattery.build/Distribution-iphoneos/aBattery.build/Objects-normal/armv7/HistoryData.o
@@ -981,7 +989,7 @@ xnormal
 xarmv7
 xobjective-c
 xcom.apple.compilers.gcc.4_2
-lSLF07#2@85"Compile /Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/Classes/HistoryData.m316523811#316523811#0(0"0(0#0#77"/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/Classes/HistoryData.m8602624672#2438"    cd "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery"    setenv LANG en_US.US-ASCII    setenv PATH "/Volumes/Mac OS Extended/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Volumes/Mac OS Extended/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Volumes/Mac OS Extended/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2" -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot "/Volumes/Mac OS Extended/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk" -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/aBattery-generated-files.hmap" "-I/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/aBattery-own-target-headers.hmap" "-I/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/aBattery-all-target-headers.hmap" -iquote "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/aBattery-project-headers.hmap" "-F/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/Distribution-iphoneos" -Fcore-plot/framework -Fcore-plot/framework/iPhoneOnly -Fcore-plot/framework/MacOnly -Fcore-plot/framework/Source -Fcore-plot/framework/TestResources "-I/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/Distribution-iphoneos/include" -Icore-plot/framework -Icore-plot/framework/iPhoneOnly -Icore-plot/framework/MacOnly -Icore-plot/framework/Source -Icore-plot/framework/TestResources "-I/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/DerivedSources/armv7" "-I/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/DerivedSources" -include /var/folders/7X/7XJQQGH0GLSFuXeMESafVE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/aBattery_Prefix-gigykltieegawieadvaigdqsmgjm/aBattery_Prefix.pch -c "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/Classes/HistoryData.m" -o "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/Objects-normal/armv7/HistoryData.o"0#
+lSLF07#2@85"Compile /Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/Classes/HistoryData.m316691906#316691906#0(0"0(0#0#77"/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/Classes/HistoryData.m8629083040#2438"    cd "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery"    setenv LANG en_US.US-ASCII    setenv PATH "/Volumes/Mac OS Extended/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Volumes/Mac OS Extended/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Volumes/Mac OS Extended/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2" -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot "/Volumes/Mac OS Extended/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk" -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/aBattery-generated-files.hmap" "-I/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/aBattery-own-target-headers.hmap" "-I/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/aBattery-all-target-headers.hmap" -iquote "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/aBattery-project-headers.hmap" "-F/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/Distribution-iphoneos" -Fcore-plot/framework -Fcore-plot/framework/iPhoneOnly -Fcore-plot/framework/MacOnly -Fcore-plot/framework/Source -Fcore-plot/framework/TestResources "-I/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/Distribution-iphoneos/include" -Icore-plot/framework -Icore-plot/framework/iPhoneOnly -Icore-plot/framework/MacOnly -Icore-plot/framework/Source -Icore-plot/framework/TestResources "-I/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/DerivedSources/armv7" "-I/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/DerivedSources" -include /var/folders/7X/7XJQQGH0GLSFuXeMESafVE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/aBattery_Prefix-gigykltieegawieadvaigdqsmgjm/aBattery_Prefix.pch -c "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/Classes/HistoryData.m" -o "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/Objects-normal/armv7/HistoryData.o"0#
 
 CCompileC build/aBattery.build/Distribution-iphoneos/aBattery.build/Objects-normal/armv7/HistoryViewController.o "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/Classes/HistoryViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
 s316523812.000089
@@ -1010,8 +1018,8 @@ xcom.apple.compilers.gcc.4_2
 lSLF07#2@82"Compile /Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/Classes/MainView.m316523810#316523810#0(0"0(0#0#74"/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/Classes/MainView.m8607995008#2432"    cd "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery"    setenv LANG en_US.US-ASCII    setenv PATH "/Volumes/Mac OS Extended/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Volumes/Mac OS Extended/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Volumes/Mac OS Extended/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2" -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot "/Volumes/Mac OS Extended/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk" -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/aBattery-generated-files.hmap" "-I/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/aBattery-own-target-headers.hmap" "-I/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/aBattery-all-target-headers.hmap" -iquote "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/aBattery-project-headers.hmap" "-F/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/Distribution-iphoneos" -Fcore-plot/framework -Fcore-plot/framework/iPhoneOnly -Fcore-plot/framework/MacOnly -Fcore-plot/framework/Source -Fcore-plot/framework/TestResources "-I/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/Distribution-iphoneos/include" -Icore-plot/framework -Icore-plot/framework/iPhoneOnly -Icore-plot/framework/MacOnly -Icore-plot/framework/Source -Icore-plot/framework/TestResources "-I/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/DerivedSources/armv7" "-I/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/DerivedSources" -include /var/folders/7X/7XJQQGH0GLSFuXeMESafVE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/aBattery_Prefix-gigykltieegawieadvaigdqsmgjm/aBattery_Prefix.pch -c "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/Classes/MainView.m" -o "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/Objects-normal/armv7/MainView.o"0#
 
 CCompileC build/aBattery.build/Distribution-iphoneos/aBattery.build/Objects-normal/armv7/MainViewController.o "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/Classes/MainViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
-s316523810.137616
-e316523811.893826
+s316691905.985441
+e316691907.436290
 r1
 xCompileC
 xbuild/aBattery.build/Distribution-iphoneos/aBattery.build/Objects-normal/armv7/MainViewController.o
@@ -1020,7 +1028,7 @@ xnormal
 xarmv7
 xobjective-c
 xcom.apple.compilers.gcc.4_2
-lSLF07#2@92"Compile /Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/Classes/MainViewController.m316523810#316523811#0(0"0(0#0#84"/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/Classes/MainViewController.m8606270912#2452"    cd "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery"    setenv LANG en_US.US-ASCII    setenv PATH "/Volumes/Mac OS Extended/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Volumes/Mac OS Extended/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Volumes/Mac OS Extended/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2" -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot "/Volumes/Mac OS Extended/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk" -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/aBattery-generated-files.hmap" "-I/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/aBattery-own-target-headers.hmap" "-I/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/aBattery-all-target-headers.hmap" -iquote "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/aBattery-project-headers.hmap" "-F/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/Distribution-iphoneos" -Fcore-plot/framework -Fcore-plot/framework/iPhoneOnly -Fcore-plot/framework/MacOnly -Fcore-plot/framework/Source -Fcore-plot/framework/TestResources "-I/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/Distribution-iphoneos/include" -Icore-plot/framework -Icore-plot/framework/iPhoneOnly -Icore-plot/framework/MacOnly -Icore-plot/framework/Source -Icore-plot/framework/TestResources "-I/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/DerivedSources/armv7" "-I/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/DerivedSources" -include /var/folders/7X/7XJQQGH0GLSFuXeMESafVE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/aBattery_Prefix-gigykltieegawieadvaigdqsmgjm/aBattery_Prefix.pch -c "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/Classes/MainViewController.m" -o "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/Objects-normal/armv7/MainViewController.o"0#
+lSLF07#2@92"Compile /Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/Classes/MainViewController.m316691905#316691907#0(0"0(0#0#84"/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/Classes/MainViewController.m8628818912#2452"    cd "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery"    setenv LANG en_US.US-ASCII    setenv PATH "/Volumes/Mac OS Extended/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Volumes/Mac OS Extended/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Volumes/Mac OS Extended/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2" -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot "/Volumes/Mac OS Extended/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk" -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/aBattery-generated-files.hmap" "-I/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/aBattery-own-target-headers.hmap" "-I/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/aBattery-all-target-headers.hmap" -iquote "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/aBattery-project-headers.hmap" "-F/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/Distribution-iphoneos" -Fcore-plot/framework -Fcore-plot/framework/iPhoneOnly -Fcore-plot/framework/MacOnly -Fcore-plot/framework/Source -Fcore-plot/framework/TestResources "-I/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/Distribution-iphoneos/include" -Icore-plot/framework -Icore-plot/framework/iPhoneOnly -Icore-plot/framework/MacOnly -Icore-plot/framework/Source -Icore-plot/framework/TestResources "-I/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/DerivedSources/armv7" "-I/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/DerivedSources" -include /var/folders/7X/7XJQQGH0GLSFuXeMESafVE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/aBattery_Prefix-gigykltieegawieadvaigdqsmgjm/aBattery_Prefix.pch -c "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/Classes/MainViewController.m" -o "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/Objects-normal/armv7/MainViewController.o"0#
 
 CCompileC build/aBattery.build/Distribution-iphoneos/aBattery.build/Objects-normal/armv7/SaveData.o "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/Classes/SaveData.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
 s316523811.893997
@@ -1036,8 +1044,8 @@ xcom.apple.compilers.gcc.4_2
 lSLF07#2@82"Compile /Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/Classes/SaveData.m316523811#316523812#0(0"0(0#0#74"/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/Classes/SaveData.m8609577184#2432"    cd "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery"    setenv LANG en_US.US-ASCII    setenv PATH "/Volumes/Mac OS Extended/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Volumes/Mac OS Extended/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Volumes/Mac OS Extended/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2" -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot "/Volumes/Mac OS Extended/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk" -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/aBattery-generated-files.hmap" "-I/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/aBattery-own-target-headers.hmap" "-I/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/aBattery-all-target-headers.hmap" -iquote "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/aBattery-project-headers.hmap" "-F/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/Distribution-iphoneos" -Fcore-plot/framework -Fcore-plot/framework/iPhoneOnly -Fcore-plot/framework/MacOnly -Fcore-plot/framework/Source -Fcore-plot/framework/TestResources "-I/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/Distribution-iphoneos/include" -Icore-plot/framework -Icore-plot/framework/iPhoneOnly -Icore-plot/framework/MacOnly -Icore-plot/framework/Source -Icore-plot/framework/TestResources "-I/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/DerivedSources/armv7" "-I/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/DerivedSources" -include /var/folders/7X/7XJQQGH0GLSFuXeMESafVE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/aBattery_Prefix-gigykltieegawieadvaigdqsmgjm/aBattery_Prefix.pch -c "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/Classes/SaveData.m" -o "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/Objects-normal/armv7/SaveData.o"0#
 
 CCompileC build/aBattery.build/Distribution-iphoneos/aBattery.build/Objects-normal/armv7/SettingsViewController.o "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/SettingsViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
-s316523812.102101
-e316523812.593636
+s316691906.670622
+e316691907.069512
 r1
 xCompileC
 xbuild/aBattery.build/Distribution-iphoneos/aBattery.build/Objects-normal/armv7/SettingsViewController.o
@@ -1046,7 +1054,7 @@ xnormal
 xarmv7
 xobjective-c
 xcom.apple.compilers.gcc.4_2
-lSLF07#2@88"Compile /Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/SettingsViewController.m316523812#316523812#0(0"0(0#0#80"/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/SettingsViewController.m8608282208#2452"    cd "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery"    setenv LANG en_US.US-ASCII    setenv PATH "/Volumes/Mac OS Extended/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Volumes/Mac OS Extended/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Volumes/Mac OS Extended/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2" -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot "/Volumes/Mac OS Extended/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk" -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/aBattery-generated-files.hmap" "-I/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/aBattery-own-target-headers.hmap" "-I/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/aBattery-all-target-headers.hmap" -iquote "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/aBattery-project-headers.hmap" "-F/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/Distribution-iphoneos" -Fcore-plot/framework -Fcore-plot/framework/iPhoneOnly -Fcore-plot/framework/MacOnly -Fcore-plot/framework/Source -Fcore-plot/framework/TestResources "-I/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/Distribution-iphoneos/include" -Icore-plot/framework -Icore-plot/framework/iPhoneOnly -Icore-plot/framework/MacOnly -Icore-plot/framework/Source -Icore-plot/framework/TestResources "-I/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/DerivedSources/armv7" "-I/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/DerivedSources" -include /var/folders/7X/7XJQQGH0GLSFuXeMESafVE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/aBattery_Prefix-gigykltieegawieadvaigdqsmgjm/aBattery_Prefix.pch -c "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/SettingsViewController.m" -o "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/Objects-normal/armv7/SettingsViewController.o"0#
+lSLF07#2@88"Compile /Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/SettingsViewController.m316691906#316691907#0(0"0(0#0#80"/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/SettingsViewController.m8614178176#2452"    cd "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery"    setenv LANG en_US.US-ASCII    setenv PATH "/Volumes/Mac OS Extended/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Volumes/Mac OS Extended/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Volumes/Mac OS Extended/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2" -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot "/Volumes/Mac OS Extended/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk" -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/aBattery-generated-files.hmap" "-I/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/aBattery-own-target-headers.hmap" "-I/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/aBattery-all-target-headers.hmap" -iquote "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/aBattery-project-headers.hmap" "-F/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/Distribution-iphoneos" -Fcore-plot/framework -Fcore-plot/framework/iPhoneOnly -Fcore-plot/framework/MacOnly -Fcore-plot/framework/Source -Fcore-plot/framework/TestResources "-I/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/Distribution-iphoneos/include" -Icore-plot/framework -Icore-plot/framework/iPhoneOnly -Icore-plot/framework/MacOnly -Icore-plot/framework/Source -Icore-plot/framework/TestResources "-I/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/DerivedSources/armv7" "-I/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/DerivedSources" -include /var/folders/7X/7XJQQGH0GLSFuXeMESafVE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/aBattery_Prefix-gigykltieegawieadvaigdqsmgjm/aBattery_Prefix.pch -c "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/SettingsViewController.m" -o "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/Objects-normal/armv7/SettingsViewController.o"0#
 
 CCompileC build/aBattery.build/Distribution-iphoneos/aBattery.build/Objects-normal/armv7/UIDeviceHardware.o "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/UIDeviceHardware.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
 s316523812.727947
@@ -1062,8 +1070,8 @@ xcom.apple.compilers.gcc.4_2
 lSLF07#2@82"Compile /Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/UIDeviceHardware.m316523812#316523812#0(0"0(0#0#74"/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/UIDeviceHardware.m8605649216#2440"    cd "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery"    setenv LANG en_US.US-ASCII    setenv PATH "/Volumes/Mac OS Extended/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Volumes/Mac OS Extended/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Volumes/Mac OS Extended/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2" -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot "/Volumes/Mac OS Extended/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk" -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/aBattery-generated-files.hmap" "-I/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/aBattery-own-target-headers.hmap" "-I/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/aBattery-all-target-headers.hmap" -iquote "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/aBattery-project-headers.hmap" "-F/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/Distribution-iphoneos" -Fcore-plot/framework -Fcore-plot/framework/iPhoneOnly -Fcore-plot/framework/MacOnly -Fcore-plot/framework/Source -Fcore-plot/framework/TestResources "-I/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/Distribution-iphoneos/include" -Icore-plot/framework -Icore-plot/framework/iPhoneOnly -Icore-plot/framework/MacOnly -Icore-plot/framework/Source -Icore-plot/framework/TestResources "-I/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/DerivedSources/armv7" "-I/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/DerivedSources" -include /var/folders/7X/7XJQQGH0GLSFuXeMESafVE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/aBattery_Prefix-gigykltieegawieadvaigdqsmgjm/aBattery_Prefix.pch -c "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/UIDeviceHardware.m" -o "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/Objects-normal/armv7/UIDeviceHardware.o"0#
 
 CCompileC build/aBattery.build/Distribution-iphoneos/aBattery.build/Objects-normal/armv7/aBatteryAppDelegate.o "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/Classes/aBatteryAppDelegate.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
-s316523809.775168
-e316523810.036723
+s316691905.306258
+e316691906.289127
 r1
 xCompileC
 xbuild/aBattery.build/Distribution-iphoneos/aBattery.build/Objects-normal/armv7/aBatteryAppDelegate.o
@@ -1072,7 +1080,7 @@ xnormal
 xarmv7
 xobjective-c
 xcom.apple.compilers.gcc.4_2
-lSLF07#2@93"Compile /Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/Classes/aBatteryAppDelegate.m316523809#316523810#0(0"0(0#0#85"/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/Classes/aBatteryAppDelegate.m8608329504#2454"    cd "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery"    setenv LANG en_US.US-ASCII    setenv PATH "/Volumes/Mac OS Extended/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Volumes/Mac OS Extended/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Volumes/Mac OS Extended/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2" -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot "/Volumes/Mac OS Extended/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk" -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/aBattery-generated-files.hmap" "-I/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/aBattery-own-target-headers.hmap" "-I/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/aBattery-all-target-headers.hmap" -iquote "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/aBattery-project-headers.hmap" "-F/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/Distribution-iphoneos" -Fcore-plot/framework -Fcore-plot/framework/iPhoneOnly -Fcore-plot/framework/MacOnly -Fcore-plot/framework/Source -Fcore-plot/framework/TestResources "-I/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/Distribution-iphoneos/include" -Icore-plot/framework -Icore-plot/framework/iPhoneOnly -Icore-plot/framework/MacOnly -Icore-plot/framework/Source -Icore-plot/framework/TestResources "-I/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/DerivedSources/armv7" "-I/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/DerivedSources" -include /var/folders/7X/7XJQQGH0GLSFuXeMESafVE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/aBattery_Prefix-gigykltieegawieadvaigdqsmgjm/aBattery_Prefix.pch -c "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/Classes/aBatteryAppDelegate.m" -o "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/Objects-normal/armv7/aBatteryAppDelegate.o"0#
+lSLF07#2@93"Compile /Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/Classes/aBatteryAppDelegate.m316691905#316691906#0(0"0(0#0#85"/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/Classes/aBatteryAppDelegate.m8614455712#2454"    cd "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery"    setenv LANG en_US.US-ASCII    setenv PATH "/Volumes/Mac OS Extended/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Volumes/Mac OS Extended/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Volumes/Mac OS Extended/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2" -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot "/Volumes/Mac OS Extended/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk" -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/aBattery-generated-files.hmap" "-I/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/aBattery-own-target-headers.hmap" "-I/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/aBattery-all-target-headers.hmap" -iquote "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/aBattery-project-headers.hmap" "-F/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/Distribution-iphoneos" -Fcore-plot/framework -Fcore-plot/framework/iPhoneOnly -Fcore-plot/framework/MacOnly -Fcore-plot/framework/Source -Fcore-plot/framework/TestResources "-I/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/Distribution-iphoneos/include" -Icore-plot/framework -Icore-plot/framework/iPhoneOnly -Icore-plot/framework/MacOnly -Icore-plot/framework/Source -Icore-plot/framework/TestResources "-I/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/DerivedSources/armv7" "-I/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/DerivedSources" -include /var/folders/7X/7XJQQGH0GLSFuXeMESafVE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/aBattery_Prefix-gigykltieegawieadvaigdqsmgjm/aBattery_Prefix.pch -c "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/Classes/aBatteryAppDelegate.m" -o "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/Objects-normal/armv7/aBatteryAppDelegate.o"0#
 
 CCompileC build/aBattery.build/Distribution-iphoneos/aBattery.build/Objects-normal/armv7/main.o "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/main.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
 s316523809.686018
@@ -1242,52 +1250,52 @@ xiTunesArtWork.jpg
 lSLF07#2@22"Copy iTunesArtWork.jpg316523442#316523442#0(0"0(0#0#73"/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/iTunesArtWork.jpg8595037888#621"    cd "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery"    setenv PATH "/Volumes/Mac OS Extended/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Volumes/Mac OS Extended/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Volumes/Mac OS Extended/Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp" -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/iTunesArtWork.jpg" "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/Distribution-iphoneos/aBattery.app"0#
 
 CCreateUniversalBinary "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/Distribution-iphoneos/aBattery.app/aBattery" normal "armv6 armv7"
-s316523813.976771
-e316523813.987958
+s316691907.640377
+e316691907.651191
 r1
 xCreateUniversalBinary
 x/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/Distribution-iphoneos/aBattery.app/aBattery
 xnormal
 xarmv6 armv7
-lSLF07#2@92"CreateUniversalBinary build/Distribution-iphoneos/aBattery.app/aBattery normal "armv6 armv7"316523813#316523813#0(0"0(0#0#67"/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/armv6 armv78608054688#671"    cd "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery"    setenv PATH "/Volumes/Mac OS Extended/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Volumes/Mac OS Extended/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/lipo -create "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/Objects-normal/armv6/aBattery" "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/Objects-normal/armv7/aBattery" -output "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/Distribution-iphoneos/aBattery.app/aBattery"0#
+lSLF07#2@92"CreateUniversalBinary build/Distribution-iphoneos/aBattery.app/aBattery normal "armv6 armv7"316691907#316691907#0(0"0(0#0#67"/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/armv6 armv78624419552#671"    cd "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery"    setenv PATH "/Volumes/Mac OS Extended/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Volumes/Mac OS Extended/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/lipo -create "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/Objects-normal/armv6/aBattery" "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/Objects-normal/armv7/aBattery" -output "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/Distribution-iphoneos/aBattery.app/aBattery"0#
 
 CGenerateDSYMFile "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/Distribution-iphoneos/aBattery.app.dSYM" "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/Distribution-iphoneos/aBattery.app/aBattery"
-s316523813.988098
-e316523814.285276
+s316691907.651322
+e316691907.953251
 r1
 xGenerateDSYMFile
 x/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/Distribution-iphoneos/aBattery.app.dSYM
 x/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/Distribution-iphoneos/aBattery.app/aBattery
-lSLF07#2@112"GenerateDSYMFile build/Distribution-iphoneos/aBattery.app.dSYM build/Distribution-iphoneos/aBattery.app/aBattery316523813#316523814#0(0"0(0#0#105"/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/Distribution-iphoneos/aBattery.app/aBattery8607899296#510"    cd "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery"    setenv PATH "/Volumes/Mac OS Extended/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Volumes/Mac OS Extended/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Volumes/Mac OS Extended/Developer/usr/bin/dsymutil" "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/Distribution-iphoneos/aBattery.app/aBattery" -o "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/Distribution-iphoneos/aBattery.app.dSYM"0#
+lSLF07#2@112"GenerateDSYMFile build/Distribution-iphoneos/aBattery.app.dSYM build/Distribution-iphoneos/aBattery.app/aBattery316691907#316691907#0(0"0(0#0#105"/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/Distribution-iphoneos/aBattery.app/aBattery8623644416#510"    cd "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery"    setenv PATH "/Volumes/Mac OS Extended/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Volumes/Mac OS Extended/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Volumes/Mac OS Extended/Developer/usr/bin/dsymutil" "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/Distribution-iphoneos/aBattery.app/aBattery" -o "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/Distribution-iphoneos/aBattery.app.dSYM"0#
 
 CLd "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/Objects-normal/armv6/aBattery" normal armv6
-s316523810.573249
-e316523810.786265
+s316691905.751461
+e316691905.985083
 r1
 xLd
 x/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/Objects-normal/armv6/aBattery
 xnormal
 xarmv6
-lSLF07#2@148"Link /Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/Objects-normal/armv6/aBattery316523810#316523810#0(0"0(0#0#0"8608962176#1423"    cd "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery"    setenv IPHONEOS_DEPLOYMENT_TARGET 4.2    setenv PATH "/Volumes/Mac OS Extended/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Volumes/Mac OS Extended/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Volumes/Mac OS Extended/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2" -arch armv6 -isysroot "/Volumes/Mac OS Extended/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk" "-L/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/Distribution-iphoneos" "-F/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/Distribution-iphoneos" -Fcore-plot/framework -Fcore-plot/framework/iPhoneOnly -Fcore-plot/framework/MacOnly -Fcore-plot/framework/Source -Fcore-plot/framework/TestResources -filelist "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/Objects-normal/armv6/aBattery.LinkFileList" -dead_strip -all_load -ObjC -miphoneos-version-min=4.2 "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/core-plot/framework/build/Release-iphoneos/libCorePlot-CocoaTouch.a" -framework Foundation -framework UIKit -framework CoreGraphics -framework QuartzCore -framework MessageUI -o "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/Objects-normal/armv6/aBattery"0#
+lSLF07#2@148"Link /Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/Objects-normal/armv6/aBattery316691905#316691905#0(0"0(0#0#0"8629991616#1423"    cd "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery"    setenv IPHONEOS_DEPLOYMENT_TARGET 4.2    setenv PATH "/Volumes/Mac OS Extended/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Volumes/Mac OS Extended/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Volumes/Mac OS Extended/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2" -arch armv6 -isysroot "/Volumes/Mac OS Extended/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk" "-L/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/Distribution-iphoneos" "-F/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/Distribution-iphoneos" -Fcore-plot/framework -Fcore-plot/framework/iPhoneOnly -Fcore-plot/framework/MacOnly -Fcore-plot/framework/Source -Fcore-plot/framework/TestResources -filelist "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/Objects-normal/armv6/aBattery.LinkFileList" -dead_strip -all_load -ObjC -miphoneos-version-min=4.2 "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/core-plot/framework/build/Release-iphoneos/libCorePlot-CocoaTouch.a" -framework Foundation -framework UIKit -framework CoreGraphics -framework QuartzCore -framework MessageUI -o "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/Objects-normal/armv6/aBattery"0#
 
 CLd "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/Objects-normal/armv7/aBattery" normal armv7
-s316523813.826360
-e316523813.976624
+s316691907.436425
+e316691907.640217
 r1
 xLd
 x/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/Objects-normal/armv7/aBattery
 xnormal
 xarmv7
-lSLF07#2@148"Link /Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/Objects-normal/armv7/aBattery316523813#316523813#0(0"0(0#0#0"8609077664#1423"    cd "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery"    setenv IPHONEOS_DEPLOYMENT_TARGET 4.2    setenv PATH "/Volumes/Mac OS Extended/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Volumes/Mac OS Extended/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Volumes/Mac OS Extended/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2" -arch armv7 -isysroot "/Volumes/Mac OS Extended/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk" "-L/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/Distribution-iphoneos" "-F/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/Distribution-iphoneos" -Fcore-plot/framework -Fcore-plot/framework/iPhoneOnly -Fcore-plot/framework/MacOnly -Fcore-plot/framework/Source -Fcore-plot/framework/TestResources -filelist "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/Objects-normal/armv7/aBattery.LinkFileList" -dead_strip -all_load -ObjC -miphoneos-version-min=4.2 "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/core-plot/framework/build/Release-iphoneos/libCorePlot-CocoaTouch.a" -framework Foundation -framework UIKit -framework CoreGraphics -framework QuartzCore -framework MessageUI -o "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/Objects-normal/armv7/aBattery"0#
+lSLF07#2@148"Link /Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/Objects-normal/armv7/aBattery316691907#316691907#0(0"0(0#0#0"8629211648#1423"    cd "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery"    setenv IPHONEOS_DEPLOYMENT_TARGET 4.2    setenv PATH "/Volumes/Mac OS Extended/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Volumes/Mac OS Extended/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Volumes/Mac OS Extended/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2" -arch armv7 -isysroot "/Volumes/Mac OS Extended/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk" "-L/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/Distribution-iphoneos" "-F/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/Distribution-iphoneos" -Fcore-plot/framework -Fcore-plot/framework/iPhoneOnly -Fcore-plot/framework/MacOnly -Fcore-plot/framework/Source -Fcore-plot/framework/TestResources -filelist "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/Objects-normal/armv7/aBattery.LinkFileList" -dead_strip -all_load -ObjC -miphoneos-version-min=4.2 "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/core-plot/framework/build/Release-iphoneos/libCorePlot-CocoaTouch.a" -framework Foundation -framework UIKit -framework CoreGraphics -framework QuartzCore -framework MessageUI -o "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/Objects-normal/armv7/aBattery"0#
 
 CProcessInfoPlistFile "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/Distribution-iphoneos/aBattery.app/Info.plist" aBattery-Info.plist
-s316523440.610688
-e316523440.638282
+s316691903.777751
+e316691903.783562
 r1
 xProcessInfoPlistFile
 x/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/Distribution-iphoneos/aBattery.app/Info.plist
 xaBattery-Info.plist
-lSLF07#2@27"Process aBattery-Info.plist316523440#316523440#0(0"0(0#0#75"/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/aBattery-Info.plist8609957280#711"    cd "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery"    setenv PATH "/Volumes/Mac OS Extended/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Volumes/Mac OS Extended/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility aBattery-Info.plist -genpkginfo "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/Distribution-iphoneos/aBattery.app/PkgInfo" -expandbuildsettings -format binary -platform iphoneos -resourcerulesfile "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/Distribution-iphoneos/aBattery.app/ResourceRules.plist" -o "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/Distribution-iphoneos/aBattery.app/Info.plist"0#
+lSLF07#2@27"Process aBattery-Info.plist316691903#316691903#0(0"0(0#0#75"/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/aBattery-Info.plist8626795296#711"    cd "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery"    setenv PATH "/Volumes/Mac OS Extended/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Volumes/Mac OS Extended/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility aBattery-Info.plist -genpkginfo "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/Distribution-iphoneos/aBattery.app/PkgInfo" -expandbuildsettings -format binary -platform iphoneos -resourcerulesfile "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/Distribution-iphoneos/aBattery.app/ResourceRules.plist" -o "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/Distribution-iphoneos/aBattery.app/Info.plist"0#
 
 CProcessPCH /var/folders/7X/7XJQQGH0GLSFuXeMESafVE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/aBattery_Prefix-afcyxtblleirxlelefhlhpufhvyl/aBattery_Prefix.pch.gch aBattery_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
 s316523799.338116
@@ -1324,6 +1332,9 @@ xobjective-c
 xcom.apple.compilers.llvm.clang.1_0.analyzer
 lSLF07#2@30"Precompile aBattery_Prefix.pch316521569#316521571#0(0"0(0#0#75"/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/aBattery_Prefix.pch8633617056#2358"    cd "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery"    setenv LANG en_US.US-ASCII    setenv PATH "/Volumes/Mac OS Extended/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Volumes/Mac OS Extended/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Volumes/Mac OS Extended/Developer/usr/bin/clang" -x objective-c-header -arch armv6 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot "/Volumes/Mac OS Extended/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk" -fasm-blocks -gdwarf-2 -fvisibility=hidden -mthumb -miphoneos-version-min=4.2 -iquote "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/aBattery-generated-files.hmap" "-I/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/aBattery-own-target-headers.hmap" "-I/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/aBattery-all-target-headers.hmap" -iquote "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/aBattery-project-headers.hmap" "-F/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/Distribution-iphoneos" -F../../core-plot/framework -F../../core-plot/framework/iPhoneOnly -F../../core-plot/framework/MacOnly -F../../core-plot/framework/Source -F../../core-plot/framework/TestResources "-I/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/Distribution-iphoneos/include" -I../../core-plot/framework -I../../core-plot/framework/iPhoneOnly -I../../core-plot/framework/MacOnly -I../../core-plot/framework/Source -I../../core-plot/framework/TestResources "-I/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/DerivedSources/armv6" "-I/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/DerivedSources" -c "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/aBattery_Prefix.pch" -o /var/folders/7X/7XJQQGH0GLSFuXeMESafVE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/aBattery_Prefix-bjbycsugykgpwbgbvfnqfkoizspz/aBattery_Prefix.pch.pth0#
 
+CProcessPCH /var/folders/7X/7XJQQGH0GLSFuXeMESafVE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/aBattery_Prefix-bjjdfkqilxrqmfhghuxxbhxtishc/aBattery_Prefix.pch.pth aBattery_Prefix.pch normal armv6 objective-c com.apple.compilers.llvm.clang.1_0.analyzer
+r0
+
 CProcessPCH /var/folders/7X/7XJQQGH0GLSFuXeMESafVE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/aBattery_Prefix-bmztawjtovetbmbodwwmwagvmifw/aBattery_Prefix.pch.pth aBattery_Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.analyzer
 r0
 
@@ -1331,6 +1342,9 @@ CProcessPCH /var/folders/7X/7XJQQGH0GLSFuXeMESafVE+++TI/-Caches-/com.apple.Xcode
 r0
 
 CProcessPCH /var/folders/7X/7XJQQGH0GLSFuXeMESafVE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/aBattery_Prefix-bvwihptlsbgticgfoclgxxxkwcsk/aBattery_Prefix.pch.gch aBattery_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/7X/7XJQQGH0GLSFuXeMESafVE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/aBattery_Prefix-dqrsenlrfticsufgewmgsdlckwho/aBattery_Prefix.pch.pth aBattery_Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.analyzer
 r0
 
 CProcessPCH /var/folders/7X/7XJQQGH0GLSFuXeMESafVE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/aBattery_Prefix-dyqmwfnpnrxosvhayyohbmlpjjhl/aBattery_Prefix.pch.gch aBattery_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
@@ -1436,13 +1450,13 @@ x/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/Distribution-ipho
 lSLF07#2@199"ProcessProductPackaging "/Users/neel/Library/MobileDevice/Provisioning Profiles/A19421A8-F776-4915-8838-531E37EF4CE6.mobileprovision" build/Distribution-iphoneos/aBattery.app/embedded.mobileprovision316523458#316523458#0(0"0(0#0#121"/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/Distribution-iphoneos/aBattery.app/embedded.mobileprovision8635777728#516"    cd "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery"    setenv PATH "/Volumes/Mac OS Extended/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Volumes/Mac OS Extended/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> "/Users/neel/Library/MobileDevice/Provisioning Profiles/A19421A8-F776-4915-8838-531E37EF4CE6.mobileprovision" -o "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/Distribution-iphoneos/aBattery.app/embedded.mobileprovision"0#
 
 CProcessProductPackaging "/Volumes/Mac OS Extended/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist" "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/aBattery.xcent"
-s316523458.763240
-e316523458.805396
+s316691907.961905
+e316691908.024603
 r1
 xProcessProductPackaging
 x/Volumes/Mac OS Extended/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist
 x/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/aBattery.xcent
-lSLF07#2@211"ProcessProductPackaging "/Volumes/Mac OS Extended/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist" build/aBattery.build/Distribution-iphoneos/aBattery.build/aBattery.xcent316523458#316523458#0(0"0(0#0#128"/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/aBattery.xcent8632632544#554"    cd "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery"    setenv PATH "/Volumes/Mac OS Extended/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Volumes/Mac OS Extended/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> "/Volumes/Mac OS Extended/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist" -entitlements -format xml -o "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/aBattery.xcent"0#
+lSLF07#2@211"ProcessProductPackaging "/Volumes/Mac OS Extended/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist" build/aBattery.build/Distribution-iphoneos/aBattery.build/aBattery.xcent316691907#316691908#0(0"0(0#0#128"/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/aBattery.xcent8632572032#554"    cd "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery"    setenv PATH "/Volumes/Mac OS Extended/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Volumes/Mac OS Extended/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> "/Volumes/Mac OS Extended/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist" -entitlements -format xml -o "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/aBattery.xcent"0#
 
 CProcessProductPackaging "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/Entitlements.plist" "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/aBattery.xcent"
 s316522156.068011
@@ -1454,10 +1468,10 @@ x/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Di
 lSLF07#2@115"ProcessProductPackaging Entitlements.plist build/aBattery.build/Distribution-iphoneos/aBattery.build/aBattery.xcent316522156#316522156#0(0"0(0#0#128"/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/aBattery.xcent8615512320#516"    cd "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery"    setenv PATH "/Volumes/Mac OS Extended/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Volumes/Mac OS Extended/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/Entitlements.plist" -entitlements -format xml -o "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/aBattery.build/Distribution-iphoneos/aBattery.build/aBattery.xcent"0#
 
 CTouch "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/Distribution-iphoneos/aBattery.app"
-s316523814.285554
-e316523814.290404
+s316691907.953735
+e316691907.961671
 r1
 xTouch
 x/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/Distribution-iphoneos/aBattery.app
-lSLF07#2@102"Touch /Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/Distribution-iphoneos/aBattery.app316523814#316523814#0(0"0(0#0#0"8608256512#358"    cd "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery"    setenv PATH "/Volumes/Mac OS Extended/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Volumes/Mac OS Extended/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/Distribution-iphoneos/aBattery.app"0#
+lSLF07#2@102"Touch /Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/Distribution-iphoneos/aBattery.app316691907#316691907#0(0"0(0#0#0"8613103360#358"    cd "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery"    setenv PATH "/Volumes/Mac OS Extended/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Volumes/Mac OS Extended/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/build/Distribution-iphoneos/aBattery.app"0#
 

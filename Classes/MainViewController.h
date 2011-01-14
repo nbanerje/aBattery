@@ -29,6 +29,7 @@ typedef enum {
     SHOW_BATTERY_STATE } BatteryStates;
 
 @interface MainViewController : UIViewController <UITextFieldDelegate> {
+	aBatteryAppDelegate *delegate;
 	
 	NSMutableDictionary *settingsDictionary;
 	
@@ -66,7 +67,7 @@ typedef enum {
 	NSTimer *updateTimer;
 	
 	
-
+    
 	
 	BatteryStates currentState;
 	BatteryStates nextState;
@@ -78,7 +79,7 @@ typedef enum {
 	BOOL loadedState;	
 }
 
-//@property (nonatomic, retain) IBOutlet UIView *allInfoView;
+@property (nonatomic, retain) aBatteryAppDelegate *delegate;
 
 @property (nonatomic, retain) IBOutlet UILabel *talk2G;
 @property (nonatomic, retain) IBOutlet UILabel *talk3G;
@@ -125,5 +126,4 @@ typedef enum {
 -(void) showAllTimes;
 -(void) hideAllTimes;
 
-- (UIImage *)reflectedImageRepresentationWithHeight:(NSUInteger)height;
 @end

@@ -27,6 +27,8 @@
 
 @implementation MainViewController
 
+@synthesize delegate;
+
 @synthesize batteryLabel;
 @synthesize batteryStateLabel;
 @synthesize batteryTimeLabel;
@@ -64,16 +66,18 @@
 - (id)initWithNibName:(NSString *)nibNameOrNil bundle:(NSBundle *)nibBundleOrNil {
 
 	if (self = [super initWithNibName:nibNameOrNil bundle:nibBundleOrNil]) {
-        // Custom initialization
+        delegate = (aBatteryAppDelegate *)[[UIApplication sharedApplication]delegate];
+		// Custom initialization
 	    self.tabBarItem.image         = [UIImage imageNamed:@"battery_tab3.png"];
 		self.tabBarItem.title         = @"Battery";
 		
-		
-		
-		//Initalize battery object
-		battery                       = [[Battery alloc] init];
+		//Connect battery to app delegate
+		battery = delegate.battery;
 		//Turn on notifications
 		[battery on];
+		
+		batteryHistory = delegate.batteryHistory;
+		
 		//Setup notifications to update the display on a currentDevice change
 		
 		
@@ -98,7 +102,6 @@
 												   object: [UIDevice currentDevice]];
 		//Initalize the batteryView
 		
-		//batteryView                   = [[UIView alloc] init];
 		batteryLabel                  = [[UILabel alloc] init];
 		batteryTimeLabel              = [[UILabel alloc] init];
 		batteryStateLabel             = [[UILabel alloc] init];
@@ -109,10 +112,9 @@
 		batteryInternetWifiTimeLabel  = [[UILabel alloc] init];
 		batteryVideoTimeLabel         = [[UILabel alloc] init];
 		batteryAudioTimeLabel         = [[UILabel alloc] init];
-		settingsDictionary            = [[NSMutableDictionary alloc] initWithCapacity:10];
-		switchKeys = [[NSArray alloc] initWithObjects:@"Display Times",  @"Disable Sleep", @"20 Sample Max", nil];
-		batteryHistory = [[HistoryData alloc] init];
-	    loadedState = NO;
+		settingsDictionary            = delegate.settingsDictionary;
+		switchKeys                    = delegate.switchKeys;
+	    loadedState                   = NO;
 		
     }
 	//
@@ -143,7 +145,7 @@
 	 //[tmp release];
 	 
 	 
-	 [self batteryViewSetup];
+	 //[self batteryViewSetup];
      [self setUserPrefs];
 	 
 	 [self setFrames];
@@ -241,39 +243,20 @@
 	[batteryView insertSubview:batteryInternetWifiTimeLabel aboveSubview:batteryView];
 	[batteryView insertSubview:batteryVideoTimeLabel aboveSubview:batteryView];
 	[batteryView insertSubview:batteryAudioTimeLabel aboveSubview:batteryView];
-	
-	/*
-	CGRect viewRect = CGRectMake(100, 10, 320, 480);
-	
-	// create the reflection view
-	CGRect reflectionRect=viewRect;
-	
-	// the reflection is a fraction of the size of the view being reflected
-	reflectionRect.size.height=reflectionRect.size.height*reflectionFraction;
-	
-	// and is offset to be at the bottom of the view being reflected
-	reflectionRect=CGRectOffset(reflectionRect,0,viewRect.size.height);
-	
-	UIImageView *localReflectionImageView = [[UIImageView alloc] initWithFrame:reflectionRect];
-	
-	// determine the size of the reflection to create
-	NSUInteger reflectionHeight=batteryView.bounds.size.height*reflectionFraction;
-	
-	self.reflectionView = localReflectionImageView; 
-	// create the reflection image, assign it to the UIImageView and add the image view to the containerView
-	reflectionView.image=[self reflectedImageRepresentationWithHeight:reflectionHeight];
-	reflectionView.alpha=reflectionOpacity;
-	
-	[self.view addSubview:reflectionView];
-	*/
-	
+		
 	[self.view addSubview:batteryView];
 }
+
+- (void)viewDidDisappear:(BOOL)animated {
+    [batteryView removeFromSuperview];
+}
+
 -(void) viewWillAppear:(BOOL)animated {
 	//NSLog(@"MainViewController::View Will Appear");
-	//[self batteryViewSetup];
+	[self batteryViewSetup];
+	[self setFrames];
 	[self setUserPrefs];
-
+	
 }
 
 -(void) setUserPrefs {
@@ -982,141 +965,18 @@
 	
 }
 
-- (void)viewDidUnload {
-	// Release any retained subviews of the main view.
-	// e.g. self.myOutlet = nil;
-	
-	//save currentState
-	//save max accelerometer values
-		 
-}
-
 - (void) saveUserDefaults {
 	[settingsDictionary setObject:[NSNumber numberWithInt:currentState] forKey:@"currentState"];
 	[SaveData writeApplicationPlist:settingsDictionary toFile:@"Data.plist"];
 	[batteryHistory saveDataToDisk]; 
 }	
 
-CGImageRef AEViewCreateGradientImage (int pixelsWide,
-									  int pixelsHigh)
-{
-	CGImageRef theCGImage = NULL;
-    CGContextRef gradientBitmapContext = NULL;
-    CGColorSpaceRef colorSpace;
-	CGGradientRef grayScaleGradient;
-	CGPoint gradientStartPoint, gradientEndPoint;
-	
-	// Our gradient is always black-white and the mask
-	// must be in the gray colorspace
-    colorSpace = CGColorSpaceCreateDeviceGray();
-	
-	// create the bitmap context
-    gradientBitmapContext = CGBitmapContextCreate (NULL, pixelsWide, pixelsHigh,
-												   8, 0, colorSpace, kCGImageAlphaNone);
-	
-	if (gradientBitmapContext != NULL) {
-		// define the start and end grayscale values (with the alpha, even though
-		// our bitmap context doesn't support alpha the gradient requires it)
-		CGFloat colors[] = {0.0, 1.0,1.0, 1.0,};
-		
-		// create the CGGradient and then release the gray color space
-		grayScaleGradient = CGGradientCreateWithColorComponents(colorSpace, colors, NULL, 2);
-		
-		// create the start and end points for the gradient vector (straight down)
-		gradientStartPoint = CGPointZero;
-		gradientEndPoint = CGPointMake(0,pixelsHigh);
-		
-		// draw the gradient into the gray bitmap context
-		CGContextDrawLinearGradient (gradientBitmapContext, grayScaleGradient, gradientStartPoint, gradientEndPoint, kCGGradientDrawsAfterEndLocation);
-		
-		// clean up the gradient
-		CGGradientRelease(grayScaleGradient);
-		
-		// convert the context into a CGImageRef and release the
-		// context
-		theCGImage=CGBitmapContextCreateImage(gradientBitmapContext);
-		CGContextRelease(gradientBitmapContext);
-		
-	}
-	
-	// clean up the colorspace
-	CGColorSpaceRelease(colorSpace);
-	
-	// return the imageref containing the gradient
-    return theCGImage;
-}
-
-- (UIImage *)reflectedImageRepresentationWithHeight:(NSUInteger)height
-{
-	CGContextRef mainViewContentContext;
-    CGColorSpaceRef colorSpace;
-	
-    colorSpace = CGColorSpaceCreateDeviceRGB();
-	
-	// create a bitmap graphics context the size of the image
-    mainViewContentContext = CGBitmapContextCreate (NULL, batteryView.bounds.size.width,height, 8,0, colorSpace, kCGImageAlphaPremultipliedLast);
-	
-	// free the rgb colorspace
-    CGColorSpaceRelease(colorSpace);	
-	
-	if (mainViewContentContext==NULL)
-		return NULL;
-	
-	// offset the context. This is necessary because, by default, the  layer created by a view for
-	// caching its content is flipped. But when you actually access the layer content and have
-	// it rendered it is inverted. Since we're only creating a context the size of our 
-	// reflection view (a fraction of the size of the main view) we have to translate the context the
-	// delta in size, render it, and then translate back (we could have saved/restored the graphics 
-	// state
-	
-	CGFloat translateVertical=batteryView.bounds.size.height-height;
-	CGContextTranslateCTM(mainViewContentContext,0,-translateVertical);
-	
-	// render the layer into the bitmap context
-	[batteryView.layer renderInContext:mainViewContentContext];
-	
-	// translate the context back
-	CGContextTranslateCTM(mainViewContentContext,0,translateVertical);
-	
-	// Create CGImageRef of the main view bitmap content, and then
-	// release that bitmap context
-	CGImageRef mainViewContentBitmapContext=CGBitmapContextCreateImage(mainViewContentContext);
-	CGContextRelease(mainViewContentContext);
-	
-	// create a 2 bit CGImage containing a gradient that will be used for masking the 
-	// main view content to create the 'fade' of the reflection.  The CGImageCreateWithMask
-	// function will stretch the bitmap image as required, so we can create a 1 pixel wide
-	// gradient
-	CGImageRef gradientMaskImage=AEViewCreateGradientImage(1,height);
-	
-	// Create an image by masking the bitmap of the mainView content with the gradient view
-	// then release the  pre-masked content bitmap and the gradient bitmap
-	CGImageRef reflectionImage=CGImageCreateWithMask(mainViewContentBitmapContext,gradientMaskImage);
-	CGImageRelease(mainViewContentBitmapContext);
-	CGImageRelease(gradientMaskImage);
-	
-	// convert the finished reflection image to a UIImage 
-	UIImage *theImage=[UIImage imageWithCGImage:reflectionImage];
-	
-	// image is retained by the property setting above, so we can 
-	// release the original
-	CGImageRelease(reflectionImage);
-	
-	// return the image
-	return theImage;
-}
-
-
 - (void)dealloc {
 	[[NSNotificationCenter defaultCenter] removeObserver:self];
-	[battery release];
 	[batteryView release];
 	[batteryLabel release];
 	[batteryTimeLabel release];
 	[batteryStateLabel release];
-	[settingsDictionary release];
-	[switchKeys release]; 
-	[batteryHistory release];
     [super dealloc];
 }
 

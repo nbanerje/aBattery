@@ -1,7 +1,7 @@
 TCorePlot-CocoaTouch
 v7
 r0
-t316523847.926385
+t316691903.659562
 cCheck dependencies
 cCpHeader build/Release-iphoneos/usr/local/include/CorePlot-CocoaTouch.h CorePlot-CocoaTouch.h
 cCpHeader build/Release-iphoneos/usr/local/include/NSDecimalNumberExtensions.h Source/NSDecimalNumberExtensions.h
@@ -646,6 +646,206 @@ s15520
 N/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/core-plot/framework/build/CorePlot-CocoaTouch.build/Release-iphoneos/CorePlot-CocoaTouch.build/Objects-normal/armv6/_CPFillImage.o
 t1294830630
 s15048
+
+N/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/core-plot/framework/build/CorePlot-CocoaTouch.build/Release-iphoneos/CorePlot-CocoaTouch.build/StaticAnalyzer/normal/armv6/CPAnimation.plist
+t2
+s0
+
+N/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/core-plot/framework/build/CorePlot-CocoaTouch.build/Release-iphoneos/CorePlot-CocoaTouch.build/StaticAnalyzer/normal/armv6/CPAnimationKeyFrame.plist
+t2
+s0
+
+N/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/core-plot/framework/build/CorePlot-CocoaTouch.build/Release-iphoneos/CorePlot-CocoaTouch.build/StaticAnalyzer/normal/armv6/CPAnimationTransition.plist
+t2
+s0
+
+N/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/core-plot/framework/build/CorePlot-CocoaTouch.build/Release-iphoneos/CorePlot-CocoaTouch.build/StaticAnalyzer/normal/armv6/CPAxis.plist
+t2
+s0
+
+N/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/core-plot/framework/build/CorePlot-CocoaTouch.build/Release-iphoneos/CorePlot-CocoaTouch.build/StaticAnalyzer/normal/armv6/CPAxisLabel.plist
+t2
+s0
+
+N/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/core-plot/framework/build/CorePlot-CocoaTouch.build/Release-iphoneos/CorePlot-CocoaTouch.build/StaticAnalyzer/normal/armv6/CPAxisSet.plist
+t2
+s0
+
+N/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/core-plot/framework/build/CorePlot-CocoaTouch.build/Release-iphoneos/CorePlot-CocoaTouch.build/StaticAnalyzer/normal/armv6/CPBarPlot.plist
+t2
+s0
+
+N/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/core-plot/framework/build/CorePlot-CocoaTouch.build/Release-iphoneos/CorePlot-CocoaTouch.build/StaticAnalyzer/normal/armv6/CPBorderedLayer.plist
+t2
+s0
+
+N/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/core-plot/framework/build/CorePlot-CocoaTouch.build/Release-iphoneos/CorePlot-CocoaTouch.build/StaticAnalyzer/normal/armv6/CPColor.plist
+t2
+s0
+
+N/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/core-plot/framework/build/CorePlot-CocoaTouch.build/Release-iphoneos/CorePlot-CocoaTouch.build/StaticAnalyzer/normal/armv6/CPColorSpace.plist
+t2
+s0
+
+N/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/core-plot/framework/build/CorePlot-CocoaTouch.build/Release-iphoneos/CorePlot-CocoaTouch.build/StaticAnalyzer/normal/armv6/CPDarkGradientTheme.plist
+t2
+s0
+
+N/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/core-plot/framework/build/CorePlot-CocoaTouch.build/Release-iphoneos/CorePlot-CocoaTouch.build/StaticAnalyzer/normal/armv6/CPDefinitions.plist
+t2
+s0
+
+N/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/core-plot/framework/build/CorePlot-CocoaTouch.build/Release-iphoneos/CorePlot-CocoaTouch.build/StaticAnalyzer/normal/armv6/CPExceptions.plist
+t2
+s0
+
+N/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/core-plot/framework/build/CorePlot-CocoaTouch.build/Release-iphoneos/CorePlot-CocoaTouch.build/StaticAnalyzer/normal/armv6/CPFill.plist
+t2
+s0
+
+N/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/core-plot/framework/build/CorePlot-CocoaTouch.build/Release-iphoneos/CorePlot-CocoaTouch.build/StaticAnalyzer/normal/armv6/CPGradient.plist
+t2
+s0
+
+N/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/core-plot/framework/build/CorePlot-CocoaTouch.build/Release-iphoneos/CorePlot-CocoaTouch.build/StaticAnalyzer/normal/armv6/CPGraph.plist
+t2
+s0
+
+N/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/core-plot/framework/build/CorePlot-CocoaTouch.build/Release-iphoneos/CorePlot-CocoaTouch.build/StaticAnalyzer/normal/armv6/CPImage.plist
+t2
+s0
+
+N/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/core-plot/framework/build/CorePlot-CocoaTouch.build/Release-iphoneos/CorePlot-CocoaTouch.build/StaticAnalyzer/normal/armv6/CPLayer.plist
+t2
+s0
+
+N/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/core-plot/framework/build/CorePlot-CocoaTouch.build/Release-iphoneos/CorePlot-CocoaTouch.build/StaticAnalyzer/normal/armv6/CPLayerHostingView.plist
+t2
+s0
+
+N/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/core-plot/framework/build/CorePlot-CocoaTouch.build/Release-iphoneos/CorePlot-CocoaTouch.build/StaticAnalyzer/normal/armv6/CPLineStyle.plist
+t2
+s0
+
+N/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/core-plot/framework/build/CorePlot-CocoaTouch.build/Release-iphoneos/CorePlot-CocoaTouch.build/StaticAnalyzer/normal/armv6/CPPathExtensions.plist
+t2
+s0
+
+N/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/core-plot/framework/build/CorePlot-CocoaTouch.build/Release-iphoneos/CorePlot-CocoaTouch.build/StaticAnalyzer/normal/armv6/CPPlainBlackTheme.plist
+t2
+s0
+
+N/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/core-plot/framework/build/CorePlot-CocoaTouch.build/Release-iphoneos/CorePlot-CocoaTouch.build/StaticAnalyzer/normal/armv6/CPPlainWhiteTheme.plist
+t2
+s0
+
+N/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/core-plot/framework/build/CorePlot-CocoaTouch.build/Release-iphoneos/CorePlot-CocoaTouch.build/StaticAnalyzer/normal/armv6/CPPlatformSpecificCategories.plist
+t2
+s0
+
+N/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/core-plot/framework/build/CorePlot-CocoaTouch.build/Release-iphoneos/CorePlot-CocoaTouch.build/StaticAnalyzer/normal/armv6/CPPlatformSpecificDefines.plist
+t2
+s0
+
+N/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/core-plot/framework/build/CorePlot-CocoaTouch.build/Release-iphoneos/CorePlot-CocoaTouch.build/StaticAnalyzer/normal/armv6/CPPlatformSpecificFunctions.plist
+t2
+s0
+
+N/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/core-plot/framework/build/CorePlot-CocoaTouch.build/Release-iphoneos/CorePlot-CocoaTouch.build/StaticAnalyzer/normal/armv6/CPPlot.plist
+t2
+s0
+
+N/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/core-plot/framework/build/CorePlot-CocoaTouch.build/Release-iphoneos/CorePlot-CocoaTouch.build/StaticAnalyzer/normal/armv6/CPPlotArea.plist
+t2
+s0
+
+N/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/core-plot/framework/build/CorePlot-CocoaTouch.build/Release-iphoneos/CorePlot-CocoaTouch.build/StaticAnalyzer/normal/armv6/CPPlotRange.plist
+t2
+s0
+
+N/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/core-plot/framework/build/CorePlot-CocoaTouch.build/Release-iphoneos/CorePlot-CocoaTouch.build/StaticAnalyzer/normal/armv6/CPPlotSpace.plist
+t2
+s0
+
+N/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/core-plot/framework/build/CorePlot-CocoaTouch.build/Release-iphoneos/CorePlot-CocoaTouch.build/StaticAnalyzer/normal/armv6/CPPlotSymbol.plist
+t2
+s0
+
+N/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/core-plot/framework/build/CorePlot-CocoaTouch.build/Release-iphoneos/CorePlot-CocoaTouch.build/StaticAnalyzer/normal/armv6/CPPolarPlotSpace.plist
+t2
+s0
+
+N/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/core-plot/framework/build/CorePlot-CocoaTouch.build/Release-iphoneos/CorePlot-CocoaTouch.build/StaticAnalyzer/normal/armv6/CPScatterPlot.plist
+t2
+s0
+
+N/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/core-plot/framework/build/CorePlot-CocoaTouch.build/Release-iphoneos/CorePlot-CocoaTouch.build/StaticAnalyzer/normal/armv6/CPStocksTheme.plist
+t2
+s0
+
+N/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/core-plot/framework/build/CorePlot-CocoaTouch.build/Release-iphoneos/CorePlot-CocoaTouch.build/StaticAnalyzer/normal/armv6/CPTextLayer.plist
+t2
+s0
+
+N/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/core-plot/framework/build/CorePlot-CocoaTouch.build/Release-iphoneos/CorePlot-CocoaTouch.build/StaticAnalyzer/normal/armv6/CPTextStyle.plist
+t2
+s0
+
+N/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/core-plot/framework/build/CorePlot-CocoaTouch.build/Release-iphoneos/CorePlot-CocoaTouch.build/StaticAnalyzer/normal/armv6/CPTextStylePlatformSpecific.plist
+t2
+s0
+
+N/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/core-plot/framework/build/CorePlot-CocoaTouch.build/Release-iphoneos/CorePlot-CocoaTouch.build/StaticAnalyzer/normal/armv6/CPTheme.plist
+t2
+s0
+
+N/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/core-plot/framework/build/CorePlot-CocoaTouch.build/Release-iphoneos/CorePlot-CocoaTouch.build/StaticAnalyzer/normal/armv6/CPTimeFormatter.plist
+t2
+s0
+
+N/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/core-plot/framework/build/CorePlot-CocoaTouch.build/Release-iphoneos/CorePlot-CocoaTouch.build/StaticAnalyzer/normal/armv6/CPUtilities.plist
+t2
+s0
+
+N/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/core-plot/framework/build/CorePlot-CocoaTouch.build/Release-iphoneos/CorePlot-CocoaTouch.build/StaticAnalyzer/normal/armv6/CPXYAxis.plist
+t2
+s0
+
+N/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/core-plot/framework/build/CorePlot-CocoaTouch.build/Release-iphoneos/CorePlot-CocoaTouch.build/StaticAnalyzer/normal/armv6/CPXYAxisSet.plist
+t2
+s0
+
+N/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/core-plot/framework/build/CorePlot-CocoaTouch.build/Release-iphoneos/CorePlot-CocoaTouch.build/StaticAnalyzer/normal/armv6/CPXYGraph.plist
+t2
+s0
+
+N/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/core-plot/framework/build/CorePlot-CocoaTouch.build/Release-iphoneos/CorePlot-CocoaTouch.build/StaticAnalyzer/normal/armv6/CPXYPlotSpace.plist
+t2
+s0
+
+N/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/core-plot/framework/build/CorePlot-CocoaTouch.build/Release-iphoneos/CorePlot-CocoaTouch.build/StaticAnalyzer/normal/armv6/CPXYTheme.plist
+t2
+s0
+
+N/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/core-plot/framework/build/CorePlot-CocoaTouch.build/Release-iphoneos/CorePlot-CocoaTouch.build/StaticAnalyzer/normal/armv6/NSDecimalNumberExtensions.plist
+t2
+s0
+
+N/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/core-plot/framework/build/CorePlot-CocoaTouch.build/Release-iphoneos/CorePlot-CocoaTouch.build/StaticAnalyzer/normal/armv6/NSNumberExtensions.plist
+t2
+s0
+
+N/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/core-plot/framework/build/CorePlot-CocoaTouch.build/Release-iphoneos/CorePlot-CocoaTouch.build/StaticAnalyzer/normal/armv6/_CPFillColor.plist
+t2
+s0
+
+N/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/core-plot/framework/build/CorePlot-CocoaTouch.build/Release-iphoneos/CorePlot-CocoaTouch.build/StaticAnalyzer/normal/armv6/_CPFillGradient.plist
+t2
+s0
+
+N/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/core-plot/framework/build/CorePlot-CocoaTouch.build/Release-iphoneos/CorePlot-CocoaTouch.build/StaticAnalyzer/normal/armv6/_CPFillImage.plist
+t2
+s0
 
 N/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/core-plot/framework/build/Release-iphoneos/libCorePlot-CocoaTouch.a
 t1294830999
@@ -1711,6 +1911,156 @@ c000000004D2D818E0000000000000413
 t1294827918
 s1043
 
+CAnalyze "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/core-plot/framework/Source/CPAnimation.m"
+r0
+
+CAnalyze "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/core-plot/framework/Source/CPAnimationKeyFrame.m"
+r0
+
+CAnalyze "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/core-plot/framework/Source/CPAnimationTransition.m"
+r0
+
+CAnalyze "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/core-plot/framework/Source/CPAxis.m"
+r0
+
+CAnalyze "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/core-plot/framework/Source/CPAxisLabel.m"
+r0
+
+CAnalyze "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/core-plot/framework/Source/CPAxisSet.m"
+r0
+
+CAnalyze "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/core-plot/framework/Source/CPBarPlot.m"
+r0
+
+CAnalyze "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/core-plot/framework/Source/CPBorderedLayer.m"
+r0
+
+CAnalyze "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/core-plot/framework/Source/CPColor.m"
+r0
+
+CAnalyze "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/core-plot/framework/Source/CPColorSpace.m"
+r0
+
+CAnalyze "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/core-plot/framework/Source/CPDarkGradientTheme.m"
+r0
+
+CAnalyze "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/core-plot/framework/Source/CPDefinitions.m"
+r0
+
+CAnalyze "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/core-plot/framework/Source/CPExceptions.m"
+r0
+
+CAnalyze "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/core-plot/framework/Source/CPFill.m"
+r0
+
+CAnalyze "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/core-plot/framework/Source/CPGradient.m"
+r0
+
+CAnalyze "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/core-plot/framework/Source/CPGraph.m"
+r0
+
+CAnalyze "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/core-plot/framework/Source/CPImage.m"
+r0
+
+CAnalyze "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/core-plot/framework/Source/CPLayer.m"
+r0
+
+CAnalyze "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/core-plot/framework/Source/CPLineStyle.m"
+r0
+
+CAnalyze "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/core-plot/framework/Source/CPPathExtensions.m"
+r0
+
+CAnalyze "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/core-plot/framework/Source/CPPlainBlackTheme.m"
+r0
+
+CAnalyze "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/core-plot/framework/Source/CPPlainWhiteTheme.m"
+r0
+
+CAnalyze "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/core-plot/framework/Source/CPPlot.m"
+r0
+
+CAnalyze "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/core-plot/framework/Source/CPPlotArea.m"
+r0
+
+CAnalyze "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/core-plot/framework/Source/CPPlotRange.m"
+r0
+
+CAnalyze "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/core-plot/framework/Source/CPPlotSpace.m"
+r0
+
+CAnalyze "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/core-plot/framework/Source/CPPlotSymbol.m"
+r0
+
+CAnalyze "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/core-plot/framework/Source/CPPolarPlotSpace.m"
+r0
+
+CAnalyze "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/core-plot/framework/Source/CPScatterPlot.m"
+r0
+
+CAnalyze "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/core-plot/framework/Source/CPStocksTheme.m"
+r0
+
+CAnalyze "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/core-plot/framework/Source/CPTextLayer.m"
+r0
+
+CAnalyze "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/core-plot/framework/Source/CPTextStyle.m"
+r0
+
+CAnalyze "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/core-plot/framework/Source/CPTheme.m"
+r0
+
+CAnalyze "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/core-plot/framework/Source/CPTimeFormatter.m"
+r0
+
+CAnalyze "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/core-plot/framework/Source/CPUtilities.m"
+r0
+
+CAnalyze "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/core-plot/framework/Source/CPXYAxis.m"
+r0
+
+CAnalyze "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/core-plot/framework/Source/CPXYAxisSet.m"
+r0
+
+CAnalyze "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/core-plot/framework/Source/CPXYGraph.m"
+r0
+
+CAnalyze "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/core-plot/framework/Source/CPXYPlotSpace.m"
+r0
+
+CAnalyze "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/core-plot/framework/Source/CPXYTheme.m"
+r0
+
+CAnalyze "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/core-plot/framework/Source/NSDecimalNumberExtensions.m"
+r0
+
+CAnalyze "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/core-plot/framework/Source/NSNumberExtensions.m"
+r0
+
+CAnalyze "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/core-plot/framework/Source/_CPFillColor.m"
+r0
+
+CAnalyze "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/core-plot/framework/Source/_CPFillGradient.m"
+r0
+
+CAnalyze "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/core-plot/framework/Source/_CPFillImage.m"
+r0
+
+CAnalyze "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/core-plot/framework/iPhoneOnly/CPLayerHostingView.m"
+r0
+
+CAnalyze "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/core-plot/framework/iPhoneOnly/CPPlatformSpecificCategories.m"
+r0
+
+CAnalyze "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/core-plot/framework/iPhoneOnly/CPPlatformSpecificDefines.m"
+r0
+
+CAnalyze "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/core-plot/framework/iPhoneOnly/CPPlatformSpecificFunctions.m"
+r0
+
+CAnalyze "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/core-plot/framework/iPhoneOnly/CPTextStylePlatformSpecific.m"
+r0
+
 CAnalyze "/Volumes/Mac OS Extended/core-plot/framework/Source/CPAnimation.m"
 s316521555.511538
 e316521555.763495
@@ -2208,7 +2558,7 @@ lSLF07#2@93"Analyze /Volumes/Mac OS Extended/core-plot/framework/iPhoneOnly/CPTe
 
 CCheck dependencies
 r0
-lSLF07#2@18"Check dependencies316523847#316523847#0(0"0(0#1#0"8605241632#0"0#
+lSLF07#2@18"Check dependencies316691902#316691903#0(0"0(0#1#0"8626832928#0"0#
 
 CCompileC build/CorePlot-CocoaTouch.build/Release-iphoneos/CorePlot-CocoaTouch.build/Objects-normal/armv6/CPAnimation.o "/Volumes/Mac OS Extended/SecondBackup/Projects/aBattery/core-plot/framework/Source/CPAnimation.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
 r0
